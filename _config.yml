@@ -17,7 +17,7 @@ full-url: "http://rptoma.github.io/Flaty" # the base hostname & protocol for you
 
 # CSS
 sass:
-  style: compressed
+  style: default
 
 # Comments - Go to Disqus.com > sign up > get the short-name > insert it here
 disqus-shortname: 
