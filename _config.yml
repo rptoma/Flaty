@@ -1,6 +1,6 @@
 title: Urban Template
 url: "https://rptoma.github.io/Flaty"
-baseurl:
+baseurl: "https://rptoma.github.io/Flaty"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
