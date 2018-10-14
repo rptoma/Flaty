@@ -12,8 +12,8 @@ Flaty este o aplicatie mobila ce ofera suport atat pentru Android cat si pentru 
 ## Probleme
 
 Cateva dintre problemele observate se numara:
-
->> * Citirea greoaie a avizierului pentru intretinere  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> * Citirea greoaie a avizierului pentru intretinere  
 * Modul ineficient de a notifica locatarii cu privire la anunturi precum intreruperea apei sau setarea datei intrunirii locatarilor   
 * Irosirea timpului atunci cand se doreste trimiterea citirii contorului pentru apa sau al platii intretinerii     
 * Lipsa unui mijloc prin care se pot face reclamatii sau sugestii legate de propriul bloc Lipsa informatiilor de contact ale vecinilor  
