@@ -27,9 +27,23 @@ Cateva dintre problemele observate se numara:
 
 ## Segmentele de clienti
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clientii se impart in 2 categorii principale: administratori si locatari. Un aspect important este faptul ca existe mai multe subcategorii de locatari, in functie de varsta. Astfel, cu cat varsta locatarului este mai mica, cu atat exista mai multe sanse ca acesta sa fie dispus sa utilizeze aplicatia, existand o oarecare reticenta fata de aplicatiile mobile printre oamenii varstnici.
+Clientii se impart in 2 categorii principale: administratori si locatari. Un aspect important este faptul ca existe mai multe subcategorii de locatari, in functie de varsta. Astfel, cu cat varsta locatarului este mai mica, cu atat exista mai multe sanse ca acesta sa fie dispus sa utilizeze aplicatia, existand o oarecare reticenta fata de aplicatiile mobile printre oamenii varstnici.
 
 ![Clienti](https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=56c7f9756b4386446903856e0fc99dd5&auto=format&fit=crop&w=1050&q=80)
+
+## Competitie
+
+Pe piata exista deja idei similare, ele pot fi gasite prin intermediul link-urilor de mai jos.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[E-bloc](https://www.e-bloc.ro "e-bloc")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aviziero](https://aviziero.ro "aviziero")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Gesimo](https://www.gesimo.ro "gesimo")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Homefile](https://homefile.ro "homefile")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blocexpert](https://www.blocexpert.ro "blocexpert")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Xisoft](https://www.xisoft.net "xisoft")  
+
+Cu toate acestea, implementarea competitorilor este strict focalizata pe aplicatii web sau desktop. Acesta este principalul motiv pentru care nu au avut parte de un succes major. In ziua de azi, oamenii utilizeaza tot mai des platformele mobile, iar o simpla notificare este mai facila si mai usor de observat decat accesarea unui website sau a unei aplicatii desktop. Astfel, avem un avantaj puternic fata de competitie, ce va putea ditcta succesul ideii.
+
 
 The following sections discuss both approaches to the history of marketing, closing with a debate about the standard chronology of marketing, a widely known hypothesis about the history of marketing, but one that historians in the marketing field have challenged.
 
