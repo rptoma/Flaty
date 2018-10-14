@@ -8,7 +8,7 @@ show_comments: true
 
 Flaty este o aplicatie mobila ce ofera suport atat pentru Android cat si pentru iOS si doreste sa le faca viata mai usoara tuturor locatarilor din blocurile din Romania.
 
-![Cars](https://unsplash.com/photos/L2oedF1AsH8)
+![Cars](https://images.unsplash.com/photo-1464938050520-ef2270bb8ce8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ef45ad8b1585797b19623a38b806ea89&auto=format&fit=crop&w=1053&q=80)
 
 The history of marketing is to a large extent a product of Internet's history as markets have adapted to keep abreast of changes and keep up with the way the major Search Engines rank web pages. Major changes include, in chronological order:
 
