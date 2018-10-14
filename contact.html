@@ -30,7 +30,7 @@ map:
 			<label for="email">Adresa de e-mail</label>
 			<input type="email" name="email" id="email" placeholder="ion@exemplu.com" required />
 
-			<label for="message">Message</label>
+			<label for="message">Mesaj</label>
 			<textarea name="message" id="message" placeholder="Salut..."></textarea>
 
 			<input type="submit" value="Trimite mesaj" />
@@ -45,11 +45,11 @@ map:
 <section class="diagonal">
 	<div class="container halves aligned-top">
 		<div>
-			<h3>Address</h3>
+			<h3>Adresa</h3>
 				<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 		</div>
 		<div>
-			<h3>Email</h3>
+			<h3>E=mail</h3>
 			<p><a href="mailto:{{ site.data.company.contact_email_address }}">{{ site.data.company.contact_email_address }}</a></p>
 		</div>
 	</div>
