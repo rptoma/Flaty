@@ -44,7 +44,12 @@ Pe piata exista deja idei similare, ele pot fi gasite prin intermediul link-uril
 
 Cu toate acestea, implementarea competitorilor este strict focalizata pe aplicatii web sau desktop. Acesta este principalul motiv pentru care nu au avut parte de un succes major. In ziua de azi, oamenii utilizeaza tot mai des platformele mobile, iar o simpla notificare este mai facila si mai usor de observat decat accesarea unui website sau a unei aplicatii desktop. Astfel, avem un avantaj puternic fata de competitie, ce va putea ditcta succesul ideii.
 
+## Structura costurilor
 
-The following sections discuss both approaches to the history of marketing, closing with a debate about the standard chronology of marketing, a widely known hypothesis about the history of marketing, but one that historians in the marketing field have challenged.
+* Costurile de productie
+  * Server baza de date, publicarea aplicatiei in magazinele virtuale
+* Costurile de marketing
+ * Promovarea aplicatiei prin intermediul reclamelor.
+
 
 [source](https://en.wikipedia.org/wiki/History_of_marketing): Wikipedia
