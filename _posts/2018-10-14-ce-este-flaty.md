@@ -1,18 +1,17 @@
 ---
 title: Ce este Flaty?
 categories:
-  - marketing
-<!--author_staff_member: james-->
+<!--author_staff_member:
 show_comments: true
 ---
 
 Flaty este o aplicatie mobila ce ofera suport atat pentru Android cat si pentru iOS si doreste sa le faca viata mai usoara tuturor locatarilor din blocurile din Romania.
 
-![Cars](https://images.unsplash.com/photo-1464938050520-ef2270bb8ce8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ef45ad8b1585797b19623a38b806ea89&auto=format&fit=crop&w=1053&q=80)
+![Cars](https://images.unsplash.com/photo-1464938050520-ef2270bb8ce8?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=ef45ad8b1585797b19623a38b806ea89&amp;auto=format&amp;fit=crop&amp;w=1053&amp;q=80)
 
 The history of marketing is to a large extent a product of Internet's history as markets have adapted to keep abreast of changes and keep up with the way the major Search Engines rank web pages. Major changes include, in chronological order:
 
-1991- Gopher: A network protocol, one of the very first query and search tools. Gopher was widely used for a couple of years, but usage has now fallen off, with barely 100 Gopher servers now indexed. 2. 1994- Launch of Yahoo, which was formerly known as "Jerry&acute;s Guide to the World Wide Web" after one of its founders, Jerry Yang. Yahoo received in its first year over 1 million hits.
+1991- Gopher: A network protocol, one of the very first query and search tools. Gopher was widely used for a couple of years, but usage has now fallen off, with barely 100 Gopher servers now indexed. 2. 1994- Launch of Yahoo, which was formerly known as "Jerry´s Guide to the World Wide Web" after one of its founders, Jerry Yang. Yahoo received in its first year over 1 million hits.
 
 ## Academic studies
 
