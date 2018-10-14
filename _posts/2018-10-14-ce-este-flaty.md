@@ -20,7 +20,7 @@ Cateva dintre problemele observate se numara:
 
 ## Solutii
 
-> * Primirea datelor ce erau postate la avizierul blocului direct in aplicatia mobila sub forma unor notificari  
+> * Primirea datelor ce erau postate la avizierul blocului direct in aplicatia mobila sub forma unor notificari <  
 * Introducerea datelor de contor direct in aplicatie, date ce vor fi procesate de catre administratorul blocului  
 * Comunicare mult mai rapida cu administratorul  
 * Adaugarea de functionalitati ce permite rezolvarea diferitor aspecte din cadrul asociatiei  
