@@ -11,36 +11,29 @@ Flaty este o aplicatie mobila ce ofera suport atat pentru Android cat si pentru 
 
 ## Probleme
 
-Cateva dintre problemele observate se numara:
-
-> * Citirea greoaie a avizierului pentru intretinere  
-* Modul ineficient de a notifica locatarii cu privire la anunturi precum intreruperea apei sau setarea datei intrunirii locatarilor   
-* Irosirea timpului atunci cand se doreste trimiterea citirii contorului pentru apa sau al platii intretinerii     
-* Lipsa unui mijloc prin care se pot face reclamatii sau sugestii legate de propriul bloc Lipsa informatiilor de contact ale vecinilor  
+> * Citirea greoaie a avizierului pentru intretinere
+> * Modul ineficient de a notifica locatarii cu privire la anunturi precum intreruperea apei sau setarea datei intrunirii locatarilor
+> * Irosirea timpului atunci cand se doreste trimiterea citirii contorului pentru apa sau al platii intretinerii
+> * Lipsa unui mijloc prin care se pot face reclamatii sau sugestii legate de propriul bloc Lipsa informatiilor de contact ale vecinilor
 
 ## Solutii
 
-> * Primirea datelor ce erau postate la avizierul blocului direct in aplicatia mobila sub forma unor notificari  
-* Introducerea datelor de contor direct in aplicatie, date ce vor fi procesate de catre administratorul blocului  
-* Comunicare mult mai rapida cu administratorul  
-* Adaugarea de functionalitati ce permite rezolvarea diferitor aspecte din cadrul asociatiei  
+> * Primirea datelor ce erau postate la avizierul blocului direct in aplicatia mobila sub forma unor notificari
+> * Introducerea datelor de contor direct in aplicatie, date ce vor fi procesate de catre administratorul blocului
+> * Comunicare mult mai rapida cu administratorul
+> * Adaugarea de functionalitati ce permite rezolvarea diferitor aspecte din cadrul asociatiei
 
 ## Segmentele de clienti
 
 Clientii se impart in 2 categorii principale: administratori si locatari. Un aspect important este faptul ca existe mai multe subcategorii de locatari, in functie de varsta. Astfel, cu cat varsta locatarului este mai mica, cu atat exista mai multe sanse ca acesta sa fie dispus sa utilizeze aplicatia, existand o oarecare reticenta fata de aplicatiile mobile printre oamenii varstnici.
 
-![Clienti](https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=56c7f9756b4386446903856e0fc99dd5&auto=format&fit=crop&w=1050&q=80)
+![Clienti](https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=56c7f9756b4386446903856e0fc99dd5&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80)
 
 ## Competitie
 
 Pe piata exista deja idei similare, ele pot fi gasite prin intermediul link-urilor de mai jos.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[E-bloc](https://www.e-bloc.ro "e-bloc")  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aviziero](https://aviziero.ro "aviziero")  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Gesimo](https://www.gesimo.ro "gesimo")  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Homefile](https://homefile.ro "homefile")  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blocexpert](https://www.blocexpert.ro "blocexpert")  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Xisoft](https://www.xisoft.net "xisoft")  
+&nbsp; &nbsp; &nbsp;&nbsp;[E-bloc](https://www.e-bloc.ro "e-bloc")<br>&nbsp; &nbsp; &nbsp;&nbsp;[Aviziero](https://aviziero.ro "aviziero")<br>&nbsp; &nbsp; &nbsp;&nbsp;[Gesimo](https://www.gesimo.ro "gesimo")<br>&nbsp; &nbsp; &nbsp;&nbsp;[Homefile](https://homefile.ro "homefile")<br>&nbsp; &nbsp; &nbsp;&nbsp;[Blocexpert](https://www.blocexpert.ro "blocexpert")<br>&nbsp; &nbsp; &nbsp;&nbsp;[Xisoft](https://www.xisoft.net "xisoft")
 
 Cu toate acestea, implementarea competitorilor este strict focalizata pe aplicatii web sau desktop. Acesta este principalul motiv pentru care nu au avut parte de un succes major. In ziua de azi, oamenii utilizeaza tot mai des platformele mobile, iar o simpla notificare este mai facila si mai usor de observat decat accesarea unui website sau a unei aplicatii desktop. Astfel, avem un avantaj puternic fata de competitie, ce va putea ditcta succesul ideii.
 
@@ -55,4 +48,4 @@ Cu toate acestea, implementarea competitorilor este strict focalizata pe aplicat
 
 Aplicatia poate creea multiple fluxuri de venit. Aceasta va oferi anumite functionalitati in mod gratuit, insa pentru a avea acces integral, utilizatorii vor fi nevoiti sa plateasca o anumita suma de bani (prin in-app purchases). Un posibil flux poate fi cel obtinut din integrarea reclamelor in versiunea neplatita a aplicatiei. In versiunea platita, reclamele vor disparea, dar va fi creat un nou flux, printr-o plata recurenta, lunara, de 2-5 lei. Considerand taxa lunara de 2 lei/apartament, un scenariu prin care se poate aproxima castigul adus este cazul in care intr-un bloc de 10 etaje, a cate 40 de apartamente, 20 dintre acestea ar fi dispuse sa foloseasca varianta platita. Pentru 1000 de astfel de blocuri, s-ar obtine un profit de 40.000 lei/luna - taxe.
 
-![Venit](https://images.unsplash.com/photo-1522937335625-b87ea99dc133?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9a5b353ddbf4355ab7f6183f6de7e63b&auto=format&fit=crop&w=1050&q=80)
+![Venit](https://images.unsplash.com/photo-1522937335625-b87ea99dc133?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=9a5b353ddbf4355ab7f6183f6de7e63b&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80)
