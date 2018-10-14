@@ -20,13 +20,16 @@ Cateva dintre problemele observate se numara:
 
 ## Solutii
 
-> * Primirea datelor ce erau postate la avizierul blocului direct in aplicatia mobila sub forma unor notificari <  
+> * Primirea datelor ce erau postate la avizierul blocului direct in aplicatia mobila sub forma unor notificari  
 * Introducerea datelor de contor direct in aplicatie, date ce vor fi procesate de catre administratorul blocului  
 * Comunicare mult mai rapida cu administratorul  
 * Adaugarea de functionalitati ce permite rezolvarea diferitor aspecte din cadrul asociatiei  
 
+## Segmentele de clienti
 
-![Coffee](https://unsplash.it/960/600?image=766)
+Clientii se impart in 2 categorii principale: administratori si locatari. Un aspect important este faptul ca existe mai multe subcategorii de locatari, in functie de varsta. Astfel, cu cat varsta locatarului este mai mica, cu atat exista mai multe sanse ca acesta sa fie dispus sa utilizeze aplicatia, existand o oarecare reticenta fata de aplicatiile mobile printre oamenii varstnici.
+
+![Clienti](https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=56c7f9756b4386446903856e0fc99dd5&auto=format&fit=crop&w=1050&q=80)
 
 The following sections discuss both approaches to the history of marketing, closing with a debate about the standard chronology of marketing, a widely known hypothesis about the history of marketing, but one that historians in the marketing field have challenged.
 
