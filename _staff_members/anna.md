@@ -1,6 +1,6 @@
 ---
-name: Anna Thompson
-position: Developer
-image_path: "https://unsplash.it/600/503?image=1025&a=.png"
+name: Toma Radu-Petrescu
+position: ???
+image_path: "https://scontent-otp1-1.xx.fbcdn.net/v/t1.0-9/1620764_1088548147836801_6922666912511857287_n.jpg?_nc_cat=102&oh=aec2fa8484119a00f2faaa61662a89d3&oe=5C5A7DA2"
 twitter: CloudCannonApp
 ---
