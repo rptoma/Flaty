@@ -1,9 +1,7 @@
 - title: Pagini
   links:
-    - name: Home
+    - name: Acasa
       link: /
-    - name: Portfolio
-      link: /portfolio/
     - name: Blog
       link: /blog/
     - name: Echipa
