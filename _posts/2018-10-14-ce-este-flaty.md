@@ -9,15 +9,15 @@ Flaty este o aplicatie mobila ce ofera suport atat pentru Android cat si pentru 
 
 ![Cars](https://images.unsplash.com/photo-1464938050520-ef2270bb8ce8?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=ef45ad8b1585797b19623a38b806ea89&amp;auto=format&amp;fit=crop&amp;w=1053&amp;q=80)
 
-The history of marketing is to a large extent a product of Internet's history as markets have adapted to keep abreast of changes and keep up with the way the major Search Engines rank web pages. Major changes include, in chronological order:
+## Probleme
 
-1991- Gopher: A network protocol, one of the very first query and search tools. Gopher was widely used for a couple of years, but usage has now fallen off, with barely 100 Gopher servers now indexed. 2. 1994- Launch of Yahoo, which was formerly known as "Jerry´s Guide to the World Wide Web" after one of its founders, Jerry Yang. Yahoo received in its first year over 1 million hits.
+Cateva dintre problemele observate se numara:
+Citirea greoaie a avizierului pentru intretinere
+Modul ineficient de a notifica locatarii cu privire la anunturi precum intreruperea apei sau setarea datei intrunirii locatarilor
+Irosirea timpului atunci cand se doreste trimiterea citirii contorului pentru apa sau al platii intretinerii
+Lipsa unui mijloc prin care se pot face reclamatii sau sugestii legate de propriul bloc
+Lipsa informatiilor de contact ale vecinilor
 
-## Academic studies
-
-The study of the history of marketing as an academic field emerged only recently. Controversies and disputes abound in the field. The publication in 1976 of the book The History of Marketing Thought, by Robert Bartels marks a turning-point in marketing thought. Since then, academics specializing in marketing decided to imitate economics, distinguishing theory and practice. Two different fields of study emerged:
-
-the history of marketing thought, giving theoretical accounts marketing history, focusing on the history of marketing practice This division parallels the distinction between the history of economic thought and economic history.
 
 ![Clock](https://unsplash.it/960/600?image=175)
 
