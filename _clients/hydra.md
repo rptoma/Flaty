@@ -2,7 +2,7 @@
 name: Hydra Template
 subtitle: Product marketing template for Jekyll
 external_url: https://github.com/CloudCannon/hydra-jekyll-template
-image_path: /images/clients/hydra.png
+image_path: /images/clients/4.png
 ---
 
 Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
