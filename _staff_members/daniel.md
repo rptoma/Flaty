@@ -1,6 +1,6 @@
 ---
-name: James Lopez
-position: Designer
-image_path: "https://unsplash.it/600/503?image=1062&a=.png"
-twitter: CloudCannonApp
+name: Daniel Osiceanu
+position: Pozitie
+image_path: "https://scontent-otp1-1.xx.fbcdn.net/v/t1.0-9/38732195_2121353078080938_2707492794364067840_n.jpg?_nc_cat=104&oh=0346a12d96c200c39635164fd957ca42&oe=5C5EEAED"
+<!--twitter: CloudCannonApp-->
 ---
