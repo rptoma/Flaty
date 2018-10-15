@@ -1,6 +1,6 @@
 ---
 title: Ce este Flaty?
-categories:
+categories: Analiza
 <!--author_staff_member:
 show_comments: true
 ---
