@@ -1,5 +1,5 @@
 ---
-title: Milestone 1: Analiza initiala
+title: Milestone 1 - Analiza initiala
 categories: Analiza
 <!--author_staff_member:
 show_comments: true
