@@ -24,13 +24,14 @@ Flaty este o aplicaţie mobilă ce oferă suport atât pentru Android, cât şi 
 > * Comunicare mult mai rapidă cu administratorul
 > * Adăugarea de funcţionalităţi ce permite rezolvarea diferitor aspecte din cadrul asociaţiei
 
-## Segmentele de clienti
+## Segmentele de clienţi
 
-Clientii se impart in 2 categorii principale: administratori si locatari. Un aspect important este faptul ca existe mai multe subcategorii de locatari, in functie de varsta. Astfel, cu cat varsta locatarului este mai mica, cu atat exista mai multe sanse ca acesta sa fie dispus sa utilizeze aplicatia, existand o oarecare reticenta fata de aplicatiile mobile printre oamenii varstnici.
+Clienţii se împart în 2 categorii principale: administratori şi locatari. 
+Un aspect important este faptul că există mai multe subcategorii de locatari, în funcţie de vârstă. Astfel, cu cât vârsta locatarului este mai mică, cu atât există mai multe şanse ca acesta să fie dispus să utilizeze aplicaţia, existând o oarecare reticenţă faţă de aplicaţiile mobile printre oamenii vârstnici.
 
 ![Clienti](https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=56c7f9756b4386446903856e0fc99dd5&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80)
 
-## Competitie
+## Competiţie
 
 Pe piata exista deja idei similare, ele pot fi gasite prin intermediul link-urilor de mai jos.
 
