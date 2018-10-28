@@ -13,16 +13,16 @@ Flaty este o aplicaţie mobilă ce oferă suport atât pentru Android, cât şi 
 
 > * Citirea greoaie a avizierului pentru întreţinere
 > * Modul ineficient de a notifica locatarii cu privire la anunţuri precum întreruperea apei sau setarea datei întrunirii locatarilor
-> * Irosirea timpului atunci cand se doreste trimiterea citirii contorului pentru apa sau al platii intretinerii
-> * Lipsa unui mijloc prin care se pot face reclamatii sau sugestii legate de propriul bloc
-> * Lipsa informatiilor de contact ale vecinilor
+> * Irosirea timpului atunci când se doreşte trimiterea citirii contorului pentru apă sau al plăţii întreţinerii
+> * Lipsa unui mijloc prin care se pot face reclamaţii sau sugestii legate de propriul bloc
+> * Lipsa informaţiilor de contact ale vecinilor
 
-## Solutii
+## Soluţii
 
-> * Primirea datelor ce erau postate la avizierul blocului direct in aplicatia mobila sub forma unor notificari
-> * Introducerea datelor de contor direct in aplicatie, date ce vor fi procesate de catre administratorul blocului
-> * Comunicare mult mai rapida cu administratorul
-> * Adaugarea de functionalitati ce permite rezolvarea diferitor aspecte din cadrul asociatiei
+> * Primirea datelor ce erau postate la avizierul blocului direct în aplicaţia mobilă sub forma unor notificări
+> * Introducerea datelor de contor direct în aplicaţie, date ce vor fi procesate de către administratorul blocului
+> * Comunicare mult mai rapidă cu administratorul
+> * Adăugarea de funcţionalităţi ce permite rezolvarea diferitor aspecte din cadrul asociaţiei
 
 ## Segmentele de clienti
 
