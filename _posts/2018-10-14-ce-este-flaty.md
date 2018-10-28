@@ -33,11 +33,11 @@ Un aspect important este faptul că există mai multe subcategorii de locatari, 
 
 ## Competiţie
 
-Pe piata exista deja idei similare, ele pot fi gasite prin intermediul link-urilor de mai jos.
+Pe piaţă există deja idei similare, ele pot fi găsite prin intermediul link-urilor de mai jos.
 
 &nbsp; &nbsp; &nbsp;&nbsp;[E-bloc](https://www.e-bloc.ro "e-bloc")<br>&nbsp; &nbsp; &nbsp;&nbsp;[Aviziero](https://aviziero.ro "aviziero")<br>&nbsp; &nbsp; &nbsp;&nbsp;[Gesimo](https://www.gesimo.ro "gesimo")<br>&nbsp; &nbsp; &nbsp;&nbsp;[Homefile](https://homefile.ro "homefile")<br>&nbsp; &nbsp; &nbsp;&nbsp;[Blocexpert](https://www.blocexpert.ro "blocexpert")<br>&nbsp; &nbsp; &nbsp;&nbsp;[Xisoft](https://www.xisoft.net "xisoft")
 
-Cu toate acestea, implementarea competitorilor este strict focalizata pe aplicatii web sau desktop. Acesta este principalul motiv pentru care nu au avut parte de un succes major. In ziua de azi, oamenii utilizeaza tot mai des platformele mobile, iar o simpla notificare este mai facila si mai usor de observat decat accesarea unui website sau a unei aplicatii desktop. Astfel, avem un avantaj puternic fata de competitie, ce va putea ditcta succesul ideii.
+Cu toate acestea, implementarea competitorilor este strict focalizată pe aplicaţii web sau desktop. Acesta este principalul motiv pentru care nu au avut parte de un succes major. În ziua de azi, oamenii utilizează tot mai des platformele mobile, iar o simplă notificare este mai facilă şi mai uşor de observat decât accesarea unui website sau a unei aplicaţii desktop. Astfel, avem un avantaj puternic faţă de competiţie, ce va putea dicta succesul ideii.
 
 ## Structura costurilor
 
