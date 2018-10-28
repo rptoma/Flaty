@@ -28,6 +28,8 @@ Dat fiind faptul ca dorinta noastra este de a crea o aplicatie mobila, publicul 
 Intrebarile adresate si raspunsurile primite au fost urmatoarele:
 
 > * &Icirc;n ce categorie de v&acirc;rstă vă &icirc;ncadrați?&nbsp;
+![](../validare/varsta.png)
+
 
 > * Folosiți aplicații mobile pentru administrarea utilităților locuinței? (Enel, Engie, UPC, RCS/RDS etc.)
 
