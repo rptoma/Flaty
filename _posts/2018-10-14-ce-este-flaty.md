@@ -41,13 +41,13 @@ Cu toate acestea, implementarea competitorilor este strict focalizată pe aplica
 
 ## Structura costurilor
 
-* Costurile de productie
-  * Server baza de date, publicarea aplicatiei in magazinele virtuale
+* Costurile de producţie
+  * Server bază de date, publicarea aplicaţiei în magazinele virtuale
 * Costurile de marketing
-  * Promovarea aplicatiei prin intermediul reclamelor.
+  * Promovarea aplicaţiei prin intermediul reclamelor.
 
 ## Fluxuri de venit
 
-Aplicatia poate crea multiple fluxuri de venit. Aceasta va oferi anumite functionalitati in mod gratuit, insa pentru a avea acces integral, utilizatorii vor fi nevoiti sa plateasca o anumita suma de bani (prin in-app purchases). Un posibil flux poate fi cel obtinut din integrarea reclamelor in versiunea neplatita a aplicatiei. In versiunea platita, reclamele vor disparea, dar va fi creat un nou flux, printr-o plata recurenta, lunara, de 2-5 lei. Considerand taxa lunara de 2 lei/apartament, un scenariu prin care se poate aproxima castigul adus este cazul in care intr-un bloc de 10 etaje, a cate 40 de apartamente, 20 dintre acestea ar fi dispuse sa foloseasca varianta platita. Pentru 1000 de astfel de blocuri, s-ar obtine un profit de 40.000 lei/luna - taxe.
+Aplicaţia poate crea multiple fluxuri de venit. Aceasta va oferi anumite funcţionalităţi în mod gratuit, însă pentru a avea acces integral, utilizatorii vor fi nevoiţi să plătească o anumită sumă de bani (prin in-app purchases). Un posibil flux poate fi cel obţinut din integrarea reclamelor în versiunea neplătită a aplicaţiei. În versiunea platită, reclamele vor dispărea, dar va fi creat un nou flux, printr-o plată recurentă, lunară, de 2-5 lei. Considerând taxa lunară de 2 lei/apartament, un scenariu prin care se poate aproxima câştigul adus este cazul în care într-un bloc de 10 etaje, a câte 40 de apartamente, 20 dintre acestea ar fi dispuse să folosească varianta plătită. Pentru 1000 de astfel de blocuri, s-ar obţine un profit de 40.000 lei/luna - taxe.
 
 ![Venit](https://images.unsplash.com/photo-1522937335625-b87ea99dc133?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=9a5b353ddbf4355ab7f6183f6de7e63b&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80)
