@@ -28,4 +28,4 @@ Dat fiind faptul ca dorinta noastra este de a crea o aplicatie mobila, publicul 
 Intrebarile adresate si raspunsurile primite au fost urmatoarele:
 > * În ce categorie de vârstă vă încadrați?
 
-
+![abc](abc.png)
