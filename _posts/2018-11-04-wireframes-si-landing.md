@@ -17,6 +17,10 @@ Pentru realizarea celor două am folosit Balsamiq.
 
 [Aici](https://balsamiq.cloud/subyp15/p3mqx5g) poate fi vizualizat wireframe-ul pentru aplicaţia mobilă.
 
+<center>
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/wireframe/w1.jpg" width="500">
+</center>
+
 Pentru accesarea aplicaţiei utilizatorul îşi va crea un cont prin introducerea unui e-mail, o parola şi un cod unic primit de la administratorul blocului, care va confirma autenticitatea utilizatorului.
 
 Aplicaţia dispune de mai multe funcţionalităţi precum vizualizarea sumei pe care trebuie să o plătească pentru întreţinere, vizualizarea anunţurilor postate de administrator, trimiterea tuturor indecşilor pentru întreţinere, plata întreţinerii şi vizualizarea facturilor. În acelaşi timp, utilizatorul va fi notificat în momentul în care administratorul va posta un nou anunţ.
@@ -24,6 +28,10 @@ Aplicaţia dispune de mai multe funcţionalităţi precum vizualizarea sumei pe 
 De asemenea, utilizatorul îşi poate exprima opinia pro sau contra în cadrul opţiunii Sugestii şi Reclamaţii, care va ajunge automat la administratorul blocului.
 
 Wireframe-ul pentru website-ul administratorului poate fi vizualizat [aici](https://balsamiq.cloud/subyp15/pkaaf26).
+
+<center>
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/wireframe/w2.jpg" width="500">
+</center>
 
 După ce îşi va crea cont administratorul, acesta va trebui să adauge toţi locatarii blocului care vor folosi aplicaţia mobilă. Astfel, el va putea ţină o evidenţă clară a datelor pentru fiecare locatar. Facilităţile de care dispune administratorul sunt adăugarea / ştergerea de locatari, adăugarea de anunţuri cu scop informativ pentru locatari.
 
