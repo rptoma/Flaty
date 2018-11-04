@@ -12,6 +12,4 @@ Pentru realizarea celor două am folosit Balsamiq.
 
 [Aici](https://balsamiq.cloud/subyp15/p3mqx5g) poate fi vizualizat wireframe-ul pentru aplicaţia mobilă.
 
-https://balsamiq.cloud/subyp15/pkaaf26
-
 Iar [aici](https://balsamiq.cloud/subyp15/pkaaf26) poate vizualizat website-ul pentru administratori.
