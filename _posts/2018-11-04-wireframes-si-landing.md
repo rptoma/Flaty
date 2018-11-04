@@ -25,3 +25,6 @@ De asemenea, utilizatorul îşi poate exprima opinia pro sau contra în cadrul o
 
 Iar [aici](https://balsamiq.cloud/subyp15/pkaaf26) poate vizualizat website-ul pentru administratori.
 
+
+## Landing Page
+Landing page-ul pe care l-am creat poate fi acceast [aici](https://rptoma.github.io/Flaty-landing-page-2/).
