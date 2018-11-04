@@ -19,5 +19,6 @@ Pentru realizarea celor două am folosit Balsamiq.
 
 Pentru accesarea aplicaţiei utilizatorul îşi va crea un cont prin introducerea unui e-mail, o parola şi un cod unic primit de la administratorul blocului, care va confirma autenticitatea utilizatorului.
 Utilizatorul va avea ca şi funcţionalităţi vizualizarea anunţurilor postate de administrator, primirea de notificări atunci când administratorul va posta un nou anunţ, trimiterea tuturor indecşilor pentru întreţinere, plata întreţinerii şi vizualizarea facturilor.
+De asemenea, utilizatorul îşi poate exprima opinia pro sau contra în cardul opţiunii Sugestii şi Reclamaţii, care va ajunge automat la administratorul blocului.
 
 Iar [aici](https://balsamiq.cloud/subyp15/pkaaf26) poate vizualizat website-ul pentru administratori.
