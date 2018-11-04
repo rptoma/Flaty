@@ -24,10 +24,16 @@ Aplicaţia dispune de mai multe funcţionalităţi precum vizualizarea sumei pe 
 De asemenea, utilizatorul îşi poate exprima opinia pro sau contra în cadrul opţiunii Sugestii şi Reclamaţii, care va ajunge automat la administratorul blocului.
 
 Wireframe-ul pentru website-ul administratorului poate fi vizualizat [aici](https://balsamiq.cloud/subyp15/pkaaf26).
+
 După ce îşi va crea cont administratorul, acesta va trebui să adauge toţi locatarii blocului care vor folosi aplicaţia mobilă. Astfel, el va putea ţină o evidenţă clară a datelor pentru fiecare locatar. Facilităţile de care dispune administratorul sunt adăugarea / ştergerea de locatari, adăugarea de anunţuri cu scop informativ pentru locatari.
+
 Avizierul, în forma sa clasică, devine acum virtual, cu o interfaţă facil de utilizat, ce permite gestionarea informaţiilor într-un mod elegant, accesibil de la orice calculator.
+
 Plăţile se vor face cu ajutorul platformei PayPal, recunoscută la nivel mondial pentru uşurinţa utilizării sale. 
 
+<center>
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/validare/Paypal.jpg" width="500">
+</center>
 
 ## Landing Page
 Landing page-ul pe care l-am creat poate fi acceast [aici](https://rptoma.github.io/Flaty-landing-page-2/). A fost creat tot prin intermediul GitHub Pages, cu o tema Jekyll custom.
