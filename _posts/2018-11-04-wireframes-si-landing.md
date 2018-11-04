@@ -10,6 +10,6 @@ Wireframe-ul reprezintă un schelet, un concept grafic, al unei pagini dintr-o a
 Deoarece pentru proiectul nostru avem nevoie atât de o aplicaţie mobilă, pentru locatari, cât şi de un website, pentru administratori a fost nevoie de crearea a două wireframes.
 Pentru realizarea celor două am folosit Balsamiq.
 
-Aici poate fi vizualizat wireframe-ul pentru aplicaţia mobilă.
+[Aici](https://balsamiq.cloud/subyp15/p3mqx5g) poate fi vizualizat wireframe-ul pentru aplicaţia mobilă.
 
-Iar aici poate vizualizat website-ul pentru administratori.
+Iar [aici] poate vizualizat website-ul pentru administratori.
