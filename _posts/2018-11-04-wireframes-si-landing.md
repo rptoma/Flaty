@@ -40,4 +40,4 @@ Landing page-ul pe care l-am creat poate fi acceast [aici](https://rptoma.github
 
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/wireframe/landing.JPG" width="500">
-</center
+</center>
