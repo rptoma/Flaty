@@ -31,12 +31,15 @@ Avizierul, în forma sa clasică, devine acum virtual, cu o interfaţă facil de
 
 Plăţile se vor face cu ajutorul platformei PayPal, recunoscută la nivel mondial pentru uşurinţa utilizării sale. 
 
+
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/wireframe/Paypal.jpg" width="500">
 </center>
 
+
 ## Landing Page
 Landing page-ul pe care l-am creat poate fi accesat [aici](https://rptoma.github.io/Flaty-landing-page-2/). A fost creat prin intermediul GitHub Pages, cu o temă Jekyll custom.
+
 
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/wireframe/landing.JPG" width="500">
