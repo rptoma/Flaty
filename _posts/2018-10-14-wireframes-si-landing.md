@@ -1,6 +1,6 @@
 ---
-title: Milestone 1 - Analiza iniţială
-categories: Analiza
+title: Milestone 3 - Wireframes si landing page
+<!--categories:-->
 <!--author_staff_member:
 show_comments: true
 ---
