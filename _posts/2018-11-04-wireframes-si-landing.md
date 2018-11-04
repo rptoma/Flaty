@@ -1,6 +1,6 @@
 ---
 title: Milestone 3 - Wireframes si landing page
-<!--categories:-->
+categories: NewStuff
 <!--author_staff_member:
 show_comments: true
 ---
