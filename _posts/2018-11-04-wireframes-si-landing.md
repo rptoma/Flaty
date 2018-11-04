@@ -44,7 +44,7 @@ Plăţile se vor face cu ajutorul platformei PayPal, recunoscută la nivel mondi
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/wireframe/Paypal.jpg" width="500">
 </center>
 
-
+&nbsp; &nbsp;
 ## Landing Page
 Landing page-ul pe care l-am creat poate fi accesat [aici](https://rptoma.github.io/Flaty-landing-page-2/). A fost creat prin intermediul GitHub Pages, cu o temă Jekyll custom.
 
