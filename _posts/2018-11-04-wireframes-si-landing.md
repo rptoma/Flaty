@@ -27,4 +27,4 @@ Iar [aici](https://balsamiq.cloud/subyp15/pkaaf26) poate vizualizat website-ul p
 
 
 ## Landing Page
-Landing page-ul pe care l-am creat poate fi acceast [aici](https://rptoma.github.io/Flaty-landing-page-2/).
+Landing page-ul pe care l-am creat poate fi acceast [aici](https://rptoma.github.io/Flaty-landing-page-2/). A fost creat tot prin intermediul GitHub Pages, cu o tema Jekyll custom.
