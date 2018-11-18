@@ -17,7 +17,7 @@ postari, reteaua de socializare Facebook este mijlocul ideal prin care se poate 
 a unui produs.  
 
 Cea mai usoara modalitate de a obtine un feedback util si pertinent a fost prin postarea paginii de prezentare 
-flaty.ml pe grupuri de asociatii de locatari. De aici am primit intrebari si sugestii ce ne vor ajuta mai departe 
+**flaty.ml** pe grupuri de asociatii de locatari. De aici am primit intrebari si sugestii ce ne vor ajuta mai departe 
 in dezvoltarea aplicatiei. 
 
 In continuare vom prezenta cateva imagini din cadrul campaniei de promovare.
@@ -91,6 +91,11 @@ Din cei 402 de vizitatori ai paginii, 27 dintre aceştia au revizitat pagina.
  <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/analiza4.png" width="500"></li>
 </ul>
 
+
+
+#### NEWSLETTER  
+Dupa lansarea optiunii de abonare, in trei zile de cand pagina a fost disponibila s-a observat faptul ca oamenii
+sunt dornici de abonare.
 
  
 #### CONCLUZII
