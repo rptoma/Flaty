@@ -22,6 +22,13 @@ in dezvoltarea aplicatiei.
 
 In continuare vom prezenta cateva imagini din cadrul campaniei de promovare.
 
-<center>
-<img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/1.png" width="500">
-</center>
+<div class="col-md-12">
+    <div class="col-md-6">
+        <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/1.png" width="500">
+        <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/2.png" width="500">
+    </div>
+    <div class="col-md-6">
+        <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/3.png" width="500">
+        <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/4.png" width="500">
+    </div>
+</div>
