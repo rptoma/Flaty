@@ -66,7 +66,33 @@ fata de produs.
 
 Pentru a vizualiza heatmap-ul puteti da click [aici](https://insights.hotjar.com/h?site=1090260&heatmap=3385877&token=d871fb3e8b48780951d683fc381f82ea&fbclid=IwAR2soflVhnvZIX7n53D1QLxwvWKygUlX2msiCrUXjmePzvMDSq3cw__A3JI&device=desktop&type=click "aici").
   
+
+
+#### GOOGLE ANALYTICS  
+Platforma Google Analytics a fost utilizata pentru a tine o evidenta a vizitelor potentialilor clienti ai aplicatiei
+noastre.
+
+Mai jos se pot observa aceste analize.
+
   
+<center>
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/analize.png" width="300">
+</center>  
+  
+Se observă faptul că durata medie pe care o petrec utilizatorii pe site-ul nostru este de 2 minute şi 29 de secunde, 
+ceea ce demonstrează că aceştia sunt interesaţi de aplicaţie şi îşi petrec timpul citind toată pagina.  
+Din cei 402 de vizitatori ai paginii, 27 dintre aceştia au revizitat pagina.  
+ 
+ 
+<ul class="image-grid">
+ <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/analiza1.png" width="500"></li>
+ <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/analiza2.png" width="500"></li>
+ <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/analiza3.png" width="500"></li>
+ <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/analiza4.png" width="500"></li>
+</ul>
+
+
+ 
 #### CONCLUZII
 Din observarile noastre, cea mai mare parte din trafic a provenit din postarile de pe grupurile de Facebook. 
 Acest lucru se datoreaza faptului ca exista o concentratie mai mare de oameni interesati de problemele din asocatiile 
