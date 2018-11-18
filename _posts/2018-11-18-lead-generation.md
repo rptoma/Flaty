@@ -5,12 +5,23 @@ categories: Analiza
 show_comments: true
 ---
 
-## Promovare
+## Promovare  
+Promovarea este o parte foarte importanta cand vine vorba de o aplicatie ce urmeaza sa fie lansata.
+Fara o promovare corespunzatoare, proiectul poate avea de suferit.
 
-In continuare vom prezenta modalitatile prin care am realizat promovarea aplicatiei.  
 
-* FACEBOOK
+#### FACEBOOK  
+Modalitatea principala prin care am ales sa facem promovarea paginii de prezentare a fost reteaua de socializare Facebook.
+Avand in vedere numarul mare de utilizatori ai platformei si al mijloacelor prin care utilizatorii pot distribui 
+postari, reteaua de socializare Facebook este mijlocul ideal prin care se poate realiza o promovare rapida si eficienta
+a unui produs.  
+
+Cea mai usoara modalitate de a obtine un feedback util si pertinent a fost prin postarea paginii de prezentare 
+flaty.ml pe grupuri de asociatii de locatari. De aici am primit intrebari si sugestii ce ne vor ajuta mai departe 
+in dezvoltarea aplicatiei. 
+
+In continuare vom prezenta cateva imagini din cadrul campaniei de promovare.
 
 <center>
-<img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/facebook.jpg" width="500">
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/1.png" width="500">
 </center>
