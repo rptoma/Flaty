@@ -8,8 +8,8 @@ show_comments: true
 ## Promovare  
 Promovarea este o parte foarte importanta cand vine vorba de o aplicatie ce urmeaza sa fie lansata.
 Fara o promovare corespunzatoare, proiectul poate avea de suferit.
-
-
+  
+  
 #### FACEBOOK  
 Modalitatea principala prin care am ales sa facem promovarea paginii de prezentare a fost reteaua de socializare Facebook.
 Avand in vedere numarul mare de utilizatori ai platformei si al mijloacelor prin care utilizatorii pot distribui 
@@ -29,14 +29,14 @@ In continuare vom prezenta cateva imagini din cadrul campaniei de promovare.
     <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/4.png" width="500"></li>
     <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/5.png" width="500"></li>
 </ul>
-
-
+  
+  
 #### INSTAGRAM  
 O alta retea de socializare foarte des utilizata este Instagram. De aceea am ales sa ne promovam aplicatia si 
 prin intermediul Instagram Stories.
-
-
-
+  
+  
+  
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/insta.jpg" width="300">
 </center>
@@ -49,9 +49,10 @@ De asemenea, am incercat sa promovam aplicatia si prin intermediul aplicatiei Wh
 
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/wapp.jpg" width="300">
-</center>
-
-
+</center>  
+  
+  
+      
 #### HOTJAR
 A fost folosita platforma Hotjar pentru detectarea comportamentului utilizatorilor pe site-ul nostru. Astfel, 
 analizand heatmap-urile generate in urma implementarii HotJar pe landing page, se observa urmatoarele.
@@ -64,8 +65,8 @@ solutia” si pe butoanele din meniul din header (in special butonul De ce noi?)
 fata de produs.
 
 Pentru a vizualiza heatmap-ul puteti da click [aici](https://insights.hotjar.com/h?site=1090260&heatmap=3385877&token=d871fb3e8b48780951d683fc381f82ea&fbclid=IwAR2soflVhnvZIX7n53D1QLxwvWKygUlX2msiCrUXjmePzvMDSq3cw__A3JI&device=desktop&type=click "aici").
-
-
+  
+  
 #### CONCLUZII
 Din observarile noastre, cea mai mare parte din trafic a provenit din postarile de pe grupurile de Facebook. 
 Acest lucru se datoreaza faptului ca exista o concentratie mai mare de oameni interesati de problemele din asocatiile 
