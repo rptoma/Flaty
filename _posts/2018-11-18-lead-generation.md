@@ -63,7 +63,7 @@ Din punct de vedere al interactiunii cu elementele paginii, majoritatea utilizat
 solutia” si pe butoanele din meniul din header (in special butonul De ce noi?) ceea ce sugereaza interesul acestora 
 fata de produs.
 
-Pentru a vizualiza heatmap-ul puteti da click [aici](https://insights.hotjar.com/h?site=1090260&heatmap=3385877&token=d871fb3e8b48780951d683fc381f82ea&fbclid=IwAR2soflVhnvZIX7n53D1QLxwvWKygUlX2msiCrUXjmePzvMDSq3cw__A3JI&device=desktop&type=click "aici")
+Pentru a vizualiza heatmap-ul puteti da click [aici](https://insights.hotjar.com/h?site=1090260&heatmap=3385877&token=d871fb3e8b48780951d683fc381f82ea&fbclid=IwAR2soflVhnvZIX7n53D1QLxwvWKygUlX2msiCrUXjmePzvMDSq3cw__A3JI&device=desktop&type=click "aici").
 
 
 #### CONCLUZII
