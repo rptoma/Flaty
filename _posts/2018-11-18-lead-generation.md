@@ -22,16 +22,13 @@ in dezvoltarea aplicatiei.
 
 In continuare vom prezenta cateva imagini din cadrul campaniei de promovare.
 
-<div class="col-md-12">
-    <div class="col-md-6">
-        <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/1.png" width="500">
-        <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/2.png" width="500">
+<ul class="col-md-12">
+    <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/1.png" width="500"></li>
+    <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/2.png" width="500"></li>
+    <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/3.png" width="500"></li>
+    <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/4.png" width="500"></li>
     </div>
-    <div class="col-md-6">
-        <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/3.png" width="500">
-        <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/4.png" width="500">
-    </div>
-</div>
+</ul>
 
 #### INSTAGRAM  
 O alta retea de socializare foarte des utilizata este Instagram. De aceea am ales sa ne promovam aplicatia si 
