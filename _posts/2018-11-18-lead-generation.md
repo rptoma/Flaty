@@ -21,7 +21,8 @@ flaty.ml pe grupuri de asociatii de locatari. De aici am primit intrebari si sug
 in dezvoltarea aplicatiei. 
 
 In continuare vom prezenta cateva imagini din cadrul campaniei de promovare.
-
+ 
+ 
 <ul class="image-grid">
     <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/1.png" width="500"></li>
     <li><img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/3.png" width="500"></li>
@@ -34,6 +35,8 @@ In continuare vom prezenta cateva imagini din cadrul campaniei de promovare.
 O alta retea de socializare foarte des utilizata este Instagram. De aceea am ales sa ne promovam aplicatia si 
 prin intermediul Instagram Stories.
 
+
+
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/insta.jpg" width="300">
 </center>
@@ -41,6 +44,8 @@ prin intermediul Instagram Stories.
 
 #### WHATSAPP
 De asemenea, am incercat sa promovam aplicatia si prin intermediul aplicatiei WhatApp.
+
+
 
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/wapp.jpg" width="300">
