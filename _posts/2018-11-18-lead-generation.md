@@ -52,6 +52,20 @@ De asemenea, am incercat sa promovam aplicatia si prin intermediul aplicatiei Wh
 </center>
 
 
+#### HOTJAR
+A fost folosita platforma Hotjar pentru detectarea comportamentului utilizatorilor pe site-ul nostru. Astfel, 
+analizand heatmap-urile generate in urma implementarii HotJar pe landing page, se observa urmatoarele.
+Au fost 52 de accesari de pe calculaor, 326 de pe telefon si 3 de pe tablete.
+Se observa ca pe calculatoare, 60.4% din vizitatori ajung sa vada butonul de abonare, in timp ce pe pe dispozitivele 
+mobile 49.5% reusesc sa realizeze acest lucru. Aceasta diferenta poate fi datorata faptului ca pe versiunea mobil 
+exista numeroase imagini aliniate vertical ceea ce fac mai anevoioasa derularea completa a paginii.
+Din punct de vedere al interactiunii cu elementele paginii, majoritatea utilizatorilor apasa pe butonul “Afla 
+solutia” si pe butoanele din meniul din header (in special butonul De ce noi?) ceea ce sugereaza interesul acestora 
+fata de produs.
+
+Pentru a vizualiza heatmap-ul puteti da click [aici](https://insights.hotjar.com/h?site=1090260&heatmap=3385877&token=d871fb3e8b48780951d683fc381f82ea&fbclid=IwAR2soflVhnvZIX7n53D1QLxwvWKygUlX2msiCrUXjmePzvMDSq3cw__A3JI&device=desktop&type=click "aici")
+
+
 #### CONCLUZII
 Din observarile noastre, cea mai mare parte din trafic a provenit din postarile de pe grupurile de Facebook. 
 Acest lucru se datoreaza faptului ca exista o concentratie mai mare de oameni interesati de problemele din asocatiile 
