@@ -35,7 +35,7 @@ O alta retea de socializare foarte des utilizata este Instagram. De aceea am ale
 prin intermediul Instagram Stories.
 
 <center>
-<img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/insta.jpg" width="500">
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/insta.jpg" width="300">
 </center>
 
 
@@ -43,7 +43,7 @@ prin intermediul Instagram Stories.
 De asemenea, am incercat sa promovam aplicatia si prin intermediul aplicatiei WhatApp.
 
 <center>
-<img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/wapp.jpg" width="500">
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/wapp.jpg" width="300">
 </center>
 
 
