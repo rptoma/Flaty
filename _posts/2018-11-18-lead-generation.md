@@ -32,3 +32,7 @@ In continuare vom prezenta cateva imagini din cadrul campaniei de promovare.
         <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/4.png" width="500">
     </div>
 </div>
+
+#### INSTAGRAM  
+O alta retea de socializare foarte des utilizata este Instagram. De aceea am ales sa ne promovam aplicatia si 
+prin intermediul Instagram Stories.
