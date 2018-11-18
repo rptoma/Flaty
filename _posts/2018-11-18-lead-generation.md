@@ -7,7 +7,9 @@ show_comments: true
 
 ## Promovare
 
-In continuare vom prezenta modalitatile prin care am realizat promovarea aploicatiei.  
+In continuare vom prezenta modalitatile prin care am realizat promovarea aplicatiei.  
+
+* FACEBOOK
 
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/LeadGenerationAndCollection/facebook.jpg" width="500">
