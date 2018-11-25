@@ -194,6 +194,8 @@ Cota de piaţă: 17%
 
 ### COTA DE PIAȚĂ TOTALĂ
 
+#### > * AN 1
+
 <br/>
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/an1.jpeg" width="500">
