@@ -68,6 +68,28 @@ Cota de piata:
 
 
 #### Gesimo
+Gesimo este o platformă web ce oferă:
+> * Plată întreținere online
+> * Introducerea indexului contoarelor online
+> * Vizualizarea cheltuielilor lunare online
+> * Defalcare restanțe apartament
+> * Contabilitate asociație
+> * Balanță, activ, pasiv
+> * Defalcare cheltuieli
+> * Verificare automată date introduse în sistem
+> * Administrare multi-asociații
+> * Generare chitanțe online
+> * Administrare venituri
+> * Definire fonduri
+
+Există mai multe tipuri de conturi:
+>* Locatar: Proprietarul sau chiriașul are acces la toate informațiile despre apartament și modul de calcul al întreținerii. Pentru a accesă aplicația este nevoie de un cont de utilizator și de o parolă. Acestea se primesc pe e-mail în momentul creării contul
+>* Administrator: Administratorul – are acces în timp real la toate sesizările locatarilor și îi poate informă rapid despre problemele tehnice și organizatorice, poate urmări cheltuielile și reparațiile prin singur clic.
+>* Cenzor: Verifică listele lunare cu cotele de întreținere, verifică lista facturilor, verifică situația financiară, notifica conducerea asociației referitor la anumite nereguli financiare. 
+>* Contabil: Se calculează listele lunare de întreținere și se actualizează toate detaliile financiare ale asociației. Se vizualizează facturile, statul de salariu, cotele de întreținere, mod distribuire cheltuieli, oferte pentru diferite lucrări, notificări locatari.
+>* Casier: Introduce în sistem plățile cotelor de întreținere, a fodurilor de rulment, a penalitarilor încasate în timpul programului de lucru. Prin introducerea încasărilor în sistem se generează automat registrele contabile (registru casă, registru jurnal încasări și plăți, …).
+>* Președinte: Verifică și aprobă listele lunare cu cotele de întreținere, aprobă plată facturilor, verifică situația financiară, anunța Adunările Generale, reprezintă asociația în față reprezentaților legali, ia decizii în numele asociației.
+
 <br/>
 <br/>
 <br/>
