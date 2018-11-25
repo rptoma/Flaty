@@ -26,8 +26,15 @@ show_comments: true
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/competition.jpeg" width="800">
 </center>
 <br/>
+
+<i> Concurența reprezinta validarea pieței </i>
+Faptul că afacerile similare care au apărut deja functioneaza înseamnă că există o piață activă pentru acest produs, existand o nevoie stabilită pentru ceea ce oferim. 
+
+<br />
+<i>"Primul mișcător nu este ceea ce este important - este ultimul motor. Microsoft a fost ultimul sistem de operare, iar Google a fost ultimul motor de căutare."</i> Peter Thiel
 <br/>
 
+####Competitia nostra
 #### E-bloc
 Este o platformă web ce oferă:
 > * Avizier - permite afişarea a peste 60 de rapoarte (ex: lista de plată, registre de fonduri, state de salarii etc) anunţuri sau alte documente
