@@ -121,6 +121,31 @@ Cota de piata:
 
 
 #### Xisoft
+Este o soluție desktop ce oferă:
+> * Lista de plata
+> * Lista de plată
+> * Registrul de casa si banca
+> * Registrul de casă şi bancă
+> * Emitere chitanţe şi facturi  
+> * Acces online proprietari
+> * Salvare pe server
+> * Import date din Excel
+> * Etichetează produsul nostru
+> * Salarii
+> * Note de plata pentru contoare
+> * Note de plată pentru contoare
+> * Mesaje email şi SMS
+> * Sistem flexibil de tiparire
+> * Sistem flexibil de tipărire
+> * Preluare documente din scanner
+> * Operatiuni cu fondurile
+> * Operaţiuni cu fondurile
+> * Contabilitate
+> * Evidenţa veniturilor
+
+Licenţa se plăteşte o singură dată (fără abonament lunar sau anual). Clienţii companiei se găsesc în 113 oraşe din ţară şi administrează până în ziua de astăzi 9952 asociaţii totalizând 590257 de apartamente.
+
+
 <br/>
 <br/>
 <br/>
