@@ -63,7 +63,7 @@ Prețuri:
 > * Banii ajunsi in contul colector sunt retinuti si se aplica un comision de 0,9%
 
 <br/>
-Xisoft
+<b>Xisoft</b>
 <br/>
 Este o soluție desktop ce oferă:
 > * Lista de plata
