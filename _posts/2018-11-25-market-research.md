@@ -28,14 +28,15 @@ show_comments: true
 <br/>
 
 Concurența reprezinta validarea pieței. Faptul că afacerile similare care au apărut deja functioneaza înseamnă că există o piață activă pentru acest produs, existand o nevoie stabilită pentru ceea ce oferim. 
-<br />
+<br/>
 <i>"Primul mișcător nu este ceea ce este important - este ultimul motor. Microsoft a fost ultimul sistem de operare, iar Google a fost ultimul motor de căutare."</i> Peter Thiel
 <br/>
+
 In continuare vom analiza competitorii si ceea ce acestia ofera.
 
 
 #### 1. E-bloc & Xisoft
-<br />
+<br/>
 <b>E-bloc</b>
 Este o platformă web ce oferă:
 > * Avizier - permite afişarea a peste 60 de rapoarte (ex: lista de plată, registre de fonduri, state de salarii etc) anunţuri sau alte documente
@@ -55,8 +56,9 @@ Este o platformă web ce oferă:
 > * Notificări pentru citirea contoarelor
 > * Printare bon fiscal prin imprimantă termică
 
-<br />
+<br/>
 <b>Xisoft</b>
+<br/>
 Este o soluție desktop ce oferă:
 > * Lista de plata
 > * Lista de plată
