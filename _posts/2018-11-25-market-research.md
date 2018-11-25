@@ -54,6 +54,12 @@ Cota de piata:
 
 
 #### Aviziero
+Aviziero este o platformă web destinată administratorilor sau firmelor de administrare ce oferă:
+> * întocmirea în mod automat a situației activ-pasiv
+> * toate fișele contabile necesare pentru contabilitatea în partida simplă a asociației de proprietari,
+> * lista de plată
+> * registrele casă, bancă si jurnal, fișe de fonduri, state de plată, fișe de apartament și fișe de furnizori. Toate, inclusiv lista de plată, pot fi ordonate după unul sau mai multe criterii simultan, se pot efectua căutări în timp real in document și pot fi filtrate după anumite câmpuri.
+> * posibilitatea de a fi promovat de către Aviziero, firmelor de administrare
 <br/>
 <br/>
 <br/>
