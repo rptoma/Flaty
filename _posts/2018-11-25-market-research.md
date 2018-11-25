@@ -27,7 +27,17 @@ Conform INS, în anul 2017, în România existau 8.92 milioane de locuinţe, luc
 </center>  
 <br/>
 
-De asemenea, piaţa construcţiilor rezidenţiale a avut o evoluţie pozitivă atât în anul 2017, cât şi în anul curent, conform unui studiu comandat de Arabesque. În anul 2017 au fost terminate 53301 locuinţe, iar în acest an se estimează faptul că numărul locuinţelor va creşte peste nivelul de 65000 de unităţi, ceea ce duce la creşterea probabilităţii ca aplicaţia noastră să fie din ce în ce mai folosită.
+Din procentul de 55,2% al oamenilor care locuiesc în zona urbană, 38% dintre aceştia locuiesc la bloc.
+Din chestionarul realizat cei mai interesaţi de această aplicaţie au fost cei cu vârsta cuprinsă între 20 - 35 de ani. Astfel, am analizat câţi locuitori ai României se încadrează în această categorie. 
+Se poate observa şi în imaginea de mai jos.
+
+<br/>
+<center>
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/varsta.jpeg" width="500">
+</center>  
+<br/>
+
+Totuşi, piaţa construcţiilor rezidenţiale a avut o evoluţie pozitivă atât în anul 2017, cât şi în anul curent, conform unui studiu comandat de Arabesque. În anul 2017 au fost terminate 53301 locuinţe, iar în acest an se estimează faptul că numărul locuinţelor va creşte peste nivelul de 65000 de unităţi, ceea ce duce la creşterea probabilităţii ca aplicaţia noastră să fie din ce în ce mai folosită.
 
 
 
