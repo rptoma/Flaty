@@ -1,4 +1,4 @@
-﻿---
+---
 title: Milestone 6 - Market Research
 categories: Market Research
 <!--author_staff_member:
@@ -26,9 +26,18 @@ show_comments: true
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/competition.jpeg" width="800">
 </center>
 <br/>
+
+Concurența reprezinta validarea pieței. Faptul că afacerile similare care au apărut deja functioneaza înseamnă că există o piață activă pentru acest produs, existand o nevoie stabilită pentru ceea ce oferim. 
+<br/>
+<i>"Primul mișcător nu este ceea ce este important - este ultimul motor. Microsoft a fost ultimul sistem de operare, iar Google a fost ultimul motor de căutare."</i> Peter Thiel
 <br/>
 
-#### E-bloc
+In continuare vom analiza competitorii si ceea ce acestia ofera.
+
+
+#### 1. E-bloc & Xisoft
+<br/>
+<b>E-bloc</b>
 Este o platformă web ce oferă:
 > * Avizier - permite afişarea a peste 60 de rapoarte (ex: lista de plată, registre de fonduri, state de salarii etc) anunţuri sau alte documente
 > * Facturi - arată cheltuielile care au intrat în componenţa listei de plată, chletuielile care s-au făcut din fonduri şi veniturile pe care le-a avut asociaţia
@@ -52,13 +61,38 @@ Preț:
 > * În momentul în care administratorul doreşte să transfere niste bani din contul colector în contul asociaţiei, se percepe un comision de 3,51 Lei
 > * Banii ajunsi in contul colector sunt retinuti si se aplica un comision de 0,9%
 <br/>
+<b>Xisoft</b>
 <br/>
+Este o soluție desktop ce oferă:
+> * Lista de plata
+> * Lista de plată
+> * Registrul de casa si banca
+> * Registrul de casă şi bancă
+> * Emitere chitanţe şi facturi  
+> * Acces online proprietari
+> * Salvare pe server
+> * Import date din Excel
+> * Etichetează produsul nostru
+> * Salarii
+> * Note de plata pentru contoare
+> * Note de plată pentru contoare
+> * Mesaje email şi SMS
+> * Sistem flexibil de tiparire
+> * Sistem flexibil de tipărire
+> * Preluare documente din scanner
+> * Operatiuni cu fondurile
+> * Operaţiuni cu fondurile
+> * Contabilitate
+> * Evidenţa veniturilor
+
+Licenţa se plăteşte o singură dată (fără abonament lunar sau anual). Clienţii companiei se găsesc în 113 oraşe din ţară şi administrează până în ziua de astăzi 9952 asociaţii totalizând 590257 de apartamente.
+
 <br/>
 Cota de piata:
 <br/>
 
 
-#### Aviziero
+#### 2. Aviziero
 Aviziero este o platformă web destinată administratorilor sau firmelor de administrare ce oferă:
 > * întocmirea în mod automat a situației activ-pasiv
 > * toate fișele contabile necesare pentru contabilitatea în partida simplă a asociației de proprietari,
@@ -76,7 +110,7 @@ Cota de piata:
 <br/>
 
 
-#### Gesimo
+#### 3. Gesimo
 Gesimo este o platformă web ce oferă:
 > * Plată întreținere online
 > * Introducerea indexului contoarelor online
@@ -105,21 +139,12 @@ Există mai multe tipuri de conturi:
 > * Președinte: Verifică și aprobă listele lunare cu cotele de întreținere, aprobă plată facturilor, verifică situația financiară, anunța Adunările Generale, reprezintă asociația în față reprezentaților legali, ia decizii în numele asociației.
 
 <br/>
-<br/>
-<br/>
 Cota de piata:
 <br/>
 
 
-#### Homefile
-<br/>
-<br/>
-<br/>
-Cota de piata:
-<br/>
 
-
-#### Blocexpert
+#### 4. Blocexpert
 Este o platformă web pentru administratori ce oferă:
 > * Lista De Cheltuieli cu posibilitatea configurării 100% pe specificul asocaitiei
 > * Mai multe nivele de acces: Locatarii asociației au conturi proprii în program, pot accesă fișa apartamentului, notă de plată, situațiile specifice apartamentului, pot transmite indecșii contoarelor direct prin intermediul aplicației și pot transmite sesizări administrației sau membrilor asociației, prin intermediul aplicației. Cenzorul și președintele pot vizualiză, verifică și comunică mai ușor prin intermediul aplicației.
