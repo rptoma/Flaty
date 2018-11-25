@@ -13,7 +13,7 @@ show_comments: true
 
 <br/>
 <center>
-<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/target_market.jpeg" width="500">
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/target_market.jpeg" width="800">
 </center>  
 <br/>
 
