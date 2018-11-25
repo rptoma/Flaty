@@ -13,7 +13,7 @@ show_comments: true
 
 <br/>
 <center>
-<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/target_market.jpeg" width="800">
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/target_market.jpeg" width="500">
 </center>  
 <br/>
 
@@ -23,7 +23,7 @@ Conform INS, în anul 2017, în România existau 8.92 milioane de locuinţe, luc
 
 <br/>
 <center>
-<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/locuinte.jpeg" width="500">
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/locuinte.jpeg" width="800">
 </center>  
 <br/>
 
