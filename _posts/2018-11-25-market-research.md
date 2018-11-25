@@ -46,7 +46,11 @@ Este o platformă web ce oferă:
 > * Integrare cu Facebook - asocierea contului de Facebook la contul interfeţei e-bloc.ro
 > * Notificări pentru citirea contoarelor
 > * Printare bon fiscal prin imprimantă termică
-
+Preț:
+> * Gratuit timp de 12 luni , cu perioada de prelungire cu o taxa lunara de 1,49 lei daca nu mai doreste versiunea gratuita
+> * Asociaţiile care au contract de cenzorat cu firma XiSoft, beneficiază de acces online gratuit pentru toate apartamentele.
+> * În momentul în care administratorul doreşte să transfere niste bani din contul colector în contul asociaţiei, se percepe un comision de 3,51 Lei
+> * Banii ajunsi in contul colector sunt retinuti si se aplica un comision de 0,9%
 <br/>
 <br/>
 <br/>
@@ -61,6 +65,10 @@ Aviziero este o platformă web destinată administratorilor sau firmelor de admi
 > * lista de plată
 > * registrele casă, bancă si jurnal, fișe de fonduri, state de plată, fișe de apartament și fișe de furnizori. Toate, inclusiv lista de plată, pot fi ordonate după unul sau mai multe criterii simultan, se pot efectua căutări în timp real in document și pot fi filtrate după anumite câmpuri.
 > * posibilitatea de a fi promovat de către Aviziero, firmelor de administrare
+Prețuri:
+> *Pentru administrator angajat - abonament lunar - 2lei/apartament (min. 50 lei)
+> *Pentru firmele de administrare - 50 lei/ asociatie; 100 lei / utilizator tip administrator
+
 <br/>
 <br/>
 <br/>
@@ -82,6 +90,11 @@ Gesimo este o platformă web ce oferă:
 > * Generare chitanțe online
 > * Administrare venituri
 > * Definire fonduri
+Prețuri:
+> * Abonament gratuit - utilizezi aplicatia așa cum este
+> * Abonament smart - calculam intretinere pentru tine-  4 lei/apartament/
+> * Abonament conta -  calculare cote, anaf, revisal - 8lei /apartament/luna
+> * Cenzorat - servicii cenzorat asociatii proprietari- 5 lei /apartament /luna
 
 Există mai multe tipuri de conturi:
 > * Locatar: Proprietarul sau chiriașul are acces la toate informațiile despre apartament și modul de calcul al întreținerii. Pentru a accesă aplicația este nevoie de un cont de utilizator și de o parolă. Acestea se primesc pe e-mail în momentul creării contul
@@ -113,6 +126,12 @@ Este o platformă web pentru administratori ce oferă:
 > * Rapoarte de contabilitate se pot decărca în format Excel sau PDF. De asemenea, se pot accesă rapoartele contabile, situația restanțierilor, a fondurilor, a penalizarilor, precum și situația elementelor de activ și pasiv.
 > * Plată întreținerii: Locatarii pot plăți online cheltuielile lunare la bloc fără să mai fie nevoie de o întâlnire cu administratorul. De asemenea, este posibilă lată întreținerii de pe telefonul mobil, dintr-un portofel electronic, instalat gratuit. Achitarea datoriilor către asociația de proprietari se poate face și prin intermediul terminalelor de tip self-service Zebrapay, disponibile în toată țara.
 > * Repartizarea costurilor cu agentul termic pentru fiecare apartament care are repartitoare.
+Prețuri:
+> * Pachet cu cel mult 100 de apartamente
+2lei/luna
+> * Pachet începand cu 101 apartamente și permite negocierea în funcție de nr. final de apartamente - 1 leu/luna
+> * Ofertă personalizată în funcție de nevoile de administrare  - preț între 0-2 lei/luna
+- Abonamentele nu includ TVA
 <br/>
 <br/>
 <br/>
