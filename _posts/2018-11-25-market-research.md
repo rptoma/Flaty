@@ -26,18 +26,20 @@ show_comments: true
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/competition.jpeg" width="800">
 </center>
 <br/>
-
-Concurența reprezinta validarea pieței. Faptul că afacerile similare care au apărut deja functioneaza înseamnă că există o piață activă pentru acest produs, existand o nevoie stabilită pentru ceea ce oferim.
-<br/>
-<i>"Primul mișcător nu este ceea ce este important - este ultimul motor. Microsoft a fost ultimul sistem de operare, iar Google a fost ultimul motor de căutare."</i> Peter Thiel
+<center><i>"Primul mișcător nu este ceea ce este important - este ultimul motor. Microsoft a fost ultimul sistem de operare, iar Google a fost ultimul motor de căutare."</i> Peter Thiel
+</center>
 <br/>
 
-In continuare vom analiza competitorii si ceea ce acestia ofera.
+Concurența reprezinta validarea pieței. Faptul că afacerile similare care au apărut deja functioneaza înseamnă că există o piață activă pentru acest produs, existand o nevoie stabilită pentru ceea ce oferim. In urma analizei pietei am concluzionat faptul ca exista 8 astfel de aplicatii: E-bloc, Xisoft, Aviziero, Gesimo, Blocexpert, Homefile, AdministrarE, Ebloc. 
+<br/>
+
+In continuare vom analiza principalii competitori si ceea ce acestia ofera.
 
 
 #### 1. E-bloc & Xisoft
 <br/>
-<b>E-bloc</b>
+<b>[E-bloc](https://www.e-bloc.ro "e-bloc")</b>
+<br/>
 Este o platformă web ce oferă:
 > * Avizier - permite afişarea a peste 60 de rapoarte (ex: lista de plată, registre de fonduri, state de salarii etc) anunţuri sau alte documente
 > * Facturi - arată cheltuielile care au intrat în componenţa listei de plată, chletuielile care s-au făcut din fonduri şi veniturile pe care le-a avut asociaţia
@@ -63,7 +65,7 @@ Prețuri:
 > * Banii ajunsi in contul colector sunt retinuti si se aplica un comision de 0,9%
 
 <br/>
-<b>Xisoft</b>
+<b>[Xisoft](https://www.xisoft.net "xisoft")</b>
 <br/>
 Este o soluție desktop ce oferă:
 > * Lista de plata
@@ -90,11 +92,11 @@ Este o soluție desktop ce oferă:
 Licenţa se plăteşte o singură dată (fără abonament lunar sau anual). Clienţii companiei se găsesc în 113 oraşe din ţară şi administrează până în ziua de astăzi 9952 asociaţii totalizând 590257 de apartamente.
 
 <br/>
-Cota de piata:
+Cota de piata: 20%
 <br/>
 
 
-#### 2. Aviziero
+#### 2. [Aviziero](https://aviziero.ro "aviziero")
 Aviziero este o platformă web destinată administratorilor sau firmelor de administrare ce oferă:
 > * întocmirea în mod automat a situației activ-pasiv
 > * toate fișele contabile necesare pentru contabilitatea în partida simplă a asociației de proprietari,
@@ -107,13 +109,11 @@ Prețuri:
 > * Pentru firmele de administrare - 50 lei/ asociatie; 100 lei / utilizator tip administrator
 
 <br/>
-<br/>
-<br/>
-Cota de piata:
+Cota de piata: 15%
 <br/>
 
 
-#### 3. Gesimo
+#### 3. [Gesimo](https://www.gesimo.ro "gesimo")
 Gesimo este o platformă web ce oferă:
 > * Plată întreținere online
 > * Introducerea indexului contoarelor online
@@ -143,12 +143,12 @@ Există mai multe tipuri de conturi:
 > * Președinte: Verifică și aprobă listele lunare cu cotele de întreținere, aprobă plată facturilor, verifică situația financiară, anunța Adunările Generale, reprezintă asociația în față reprezentaților legali, ia decizii în numele asociației.
 
 <br/>
-Cota de piata:
+Cota de piata: 12%
 <br/>
 
 
 
-#### 4. Blocexpert
+#### 4. [Blocexpert](https://www.blocexpert.ro "blocexpert")
 Este o platformă web pentru administratori ce oferă:
 > * Lista De Cheltuieli cu posibilitatea configurării 100% pe specificul asocaitiei
 > * Mai multe nivele de acces: Locatarii asociației au conturi proprii în program, pot accesă fișa apartamentului, notă de plată, situațiile specifice apartamentului, pot transmite indecșii contoarelor direct prin intermediul aplicației și pot transmite sesizări administrației sau membrilor asociației, prin intermediul aplicației. Cenzorul și președintele pot vizualiză, verifică și comunică mai ușor prin intermediul aplicației.
@@ -162,45 +162,10 @@ Prețuri:
 > * Pachet începand cu 101 apartamente și permite negocierea în funcție de nr. final de apartamente - 1 leu/luna
 > * Ofertă personalizată în funcție de nevoile de administrare  - preț între 0-2 lei/luna
 - Abonamentele nu includ TVA
-<br/>
-<br/>
-<br/>
-Cota de piata:
-<br/>
-
-
-#### Xisoft
-Este o soluție desktop ce oferă:
-> * Lista de plata
-> * Lista de plată
-> * Registrul de casa si banca
-> * Registrul de casă şi bancă
-> * Emitere chitanţe şi facturi  
-> * Acces online proprietari
-> * Salvare pe server
-> * Import date din Excel
-> * Etichetează produsul nostru
-> * Salarii
-> * Note de plata pentru contoare
-> * Note de plată pentru contoare
-> * Mesaje email şi SMS
-> * Sistem flexibil de tiparire
-> * Sistem flexibil de tipărire
-> * Preluare documente din scanner
-> * Operatiuni cu fondurile
-> * Operaţiuni cu fondurile
-> * Contabilitate
-> * Evidenţa veniturilor
-
-Licenţa se plăteşte o singură dată (fără abonament lunar sau anual). Clienţii companiei se găsesc în 113 oraşe din ţară şi administrează până în ziua de astăzi 9952 asociaţii totalizând 590257 de apartamente.
-
 
 <br/>
+Cota de piata: 11%
 <br/>
-<br/>
-Cota de piata:
-<br/>
-
 
 
 ### COTA DE PIATA  
