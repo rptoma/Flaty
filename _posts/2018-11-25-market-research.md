@@ -17,7 +17,7 @@ show_comments: true
 </center>  
 <br/>
 
-Piaţa ţintă este definită de 2 mari segmente de clienţi: administratori şi locatari. 
+Piaţa ţintă este definită de 2 mari segmente de clienţi: administratori şi locatari.
 În momentul de faţă noi targetam populaţia urbană a României, care, în momentul de faţă este de 55,2%.
 Conform INS, în anul 2017, în România existau 8.92 milioane de locuinţe, lucru ce se poate observa în imaginea de mai jos.
 
@@ -28,7 +28,7 @@ Conform INS, în anul 2017, în România existau 8.92 milioane de locuinţe, luc
 <br/>
 
 Din procentul de 55,2% al oamenilor care locuiesc în zona urbană, 38% dintre aceştia locuiesc la bloc.
-Din chestionarul realizat cei mai interesaţi de această aplicaţie au fost cei cu vârsta cuprinsă între 20 - 35 de ani. Astfel, am analizat câţi locuitori ai României se încadrează în această categorie. 
+Din chestionarul realizat cei mai interesaţi de această aplicaţie au fost cei cu vârsta cuprinsă între 20 - 35 de ani. Astfel, am analizat câţi locuitori ai României se încadrează în această categorie.
 Se poate observa şi în imaginea de mai jos.
 
 <br/>
@@ -52,7 +52,7 @@ Totuşi, piaţa construcţiilor rezidenţiale a avut o evoluţie pozitivă atât
 </center>
 <br/>
 
-Concurența reprezintă validarea pieței. Faptul că afacerile similare care au apărut deja funcţionează înseamnă că există o piață activă pentru acest produs, existând o nevoie stabilită pentru ceea ce oferim. În urma analizei pieţei am concluzionat faptul că există 8 astfel de aplicaţii: E-bloc, Xisoft, Aviziero, Gesimo, Blocexpert, Homefile, AdministrarE, Ebloc. 
+Concurența reprezintă validarea pieței. Faptul că afacerile similare care au apărut deja funcţionează înseamnă că există o piață activă pentru acest produs, existând o nevoie stabilită pentru ceea ce oferim. În urma analizei pieţei am concluzionat faptul că există 8 astfel de aplicaţii: E-bloc, Xisoft, Aviziero, Gesimo, Blocexpert, Homefile, AdministrarE, Ebloc.
 <br/>
 
 În continuare vom analiza principalii competitori şi ceea ce aceştia oferă.
@@ -183,6 +183,11 @@ Cota de piaţă: 11%
 
 
 ### COTA DE PIAŢĂ
+Ținând cont că în primul va fi mai dificil din punct de vedere al promovării și propagării în piață, cota noastră de piață nu va fi una ridicată, preconizând o valoare de aprox. 3%.
+În anul 2, datorită unui plan de marketing bine definit, ne așteptăm la o creștere a cotei de piață, astfel ajungând la 7%.
+În anul 3 ne propunem o creștere substanțială datorită feedback-ul pozitiv și recomandările utilizatorilor astfel creându-se efectul bulgărelui de zăpadă. Cota de piață a competitorilor începe să scadă, majoritatea noilor clienți migrând de la platformele având cotele cele mai joase, către Flaty. Astfel, cota noastră de piață va fi 15%, iar a E-bloc 20%.
+În anul 4, din cauza faptului că un nou competitor în acest domeniu a apărut, cota noastră a scăzut la 14%.
+În anul 5, echipa se va concentra pe inovare astfel, vom perfecționa funcționalitățile existene și vom introduce tehnologii noi (de exemplu apometre inteligente), astfel devenind lideri pe piață, cu o cotă de 25%, E-Bloc ajungând pe locul 2, cu 18%.
 <br/>
 
 
