@@ -11,6 +11,7 @@ show_comments: true
 
 ### PIATA TINTA 
 
+<br/>
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/target_market.jpeg" width="500">
 </center>  
@@ -22,8 +23,37 @@ show_comments: true
 
 <br/>
 <center>
-<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/competition.png" width="800">
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/competition.jpeg" width="800">
 </center>
+<br/>
+<br/>
+
+#### E-bloc
+<br/>
+<br/>
+
+
+#### Aviziero
+<br/>
+<br/>
+
+
+#### Gesimo
+<br/>
+<br/>
+
+
+#### Homefile
+<br/>
+<br/>
+
+
+#### Blocexpert
+<br/>
+<br/>
+
+
+#### Xisoft
 <br/>
 <br/>
 
