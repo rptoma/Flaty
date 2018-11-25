@@ -31,30 +31,48 @@ show_comments: true
 #### E-bloc
 <br/>
 <br/>
+<br/>
+Cota de piata: 
+<br/>
 
 
 #### Aviziero
 <br/>
+<br/>
+<br/>
+Cota de piata: 
 <br/>
 
 
 #### Gesimo
 <br/>
 <br/>
+<br/>
+Cota de piata: 
+<br/>
 
 
 #### Homefile
 <br/>
+<br/>
+<br/>
+Cota de piata: 
 <br/>
 
 
 #### Blocexpert
 <br/>
 <br/>
+<br/>
+Cota de piata: 
+<br/>
 
 
 #### Xisoft
 <br/>
+<br/>
+<br/>
+Cota de piata: 
 <br/>
 
 
