@@ -184,9 +184,13 @@ Cota de piaţă: 11%
 
 ### COTA DE PIAŢĂ
 Ținând cont că în primul va fi mai dificil din punct de vedere al promovării și propagării în piață, cota noastră de piață nu va fi una ridicată, preconizând o valoare de aprox. 3%.
+<br/>
 În anul 2, datorită unui plan de marketing bine definit, ne așteptăm la o creștere a cotei de piață, astfel ajungând la 7%.
+<br/>
 În anul 3 ne propunem o creștere substanțială datorită feedback-ul pozitiv și recomandările utilizatorilor astfel creându-se efectul bulgărelui de zăpadă. Cota de piață a competitorilor începe să scadă, majoritatea noilor clienți migrând de la platformele având cotele cele mai joase, către Flaty. Astfel, cota noastră de piață va fi 15%, iar a E-bloc 20%.
+<br/>
 În anul 4, din cauza faptului că un nou competitor în acest domeniu a apărut, cota noastră a scăzut la 14%.
+<br/>
 În anul 5, echipa se va concentra pe inovare astfel, vom perfecționa funcționalitățile existene și vom introduce tehnologii noi (de exemplu apometre inteligente), astfel devenind lideri pe piață, cu o cotă de 25%, E-Bloc ajungând pe locul 2, cu 18%.
 <br/>
 
