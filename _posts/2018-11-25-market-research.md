@@ -45,6 +45,7 @@ Este o platformă web ce oferă:
 > * Diverse știri
 > * Integrare cu Facebook - asocierea contului de Facebook la contul interfeţei e-bloc.ro
 > * Notificări pentru citirea contoarelor
+> * Printare bon fiscal prin imprimantă termică
 
 <br/>
 <br/>
@@ -83,12 +84,12 @@ Gesimo este o platformă web ce oferă:
 > * Definire fonduri
 
 Există mai multe tipuri de conturi:
->* Locatar: Proprietarul sau chiriașul are acces la toate informațiile despre apartament și modul de calcul al întreținerii. Pentru a accesă aplicația este nevoie de un cont de utilizator și de o parolă. Acestea se primesc pe e-mail în momentul creării contul
->* Administrator: Administratorul – are acces în timp real la toate sesizările locatarilor și îi poate informă rapid despre problemele tehnice și organizatorice, poate urmări cheltuielile și reparațiile prin singur clic.
->* Cenzor: Verifică listele lunare cu cotele de întreținere, verifică lista facturilor, verifică situația financiară, notifica conducerea asociației referitor la anumite nereguli financiare. 
->* Contabil: Se calculează listele lunare de întreținere și se actualizează toate detaliile financiare ale asociației. Se vizualizează facturile, statul de salariu, cotele de întreținere, mod distribuire cheltuieli, oferte pentru diferite lucrări, notificări locatari.
->* Casier: Introduce în sistem plățile cotelor de întreținere, a fodurilor de rulment, a penalitarilor încasate în timpul programului de lucru. Prin introducerea încasărilor în sistem se generează automat registrele contabile (registru casă, registru jurnal încasări și plăți, …).
->* Președinte: Verifică și aprobă listele lunare cu cotele de întreținere, aprobă plată facturilor, verifică situația financiară, anunța Adunările Generale, reprezintă asociația în față reprezentaților legali, ia decizii în numele asociației.
+> * Locatar: Proprietarul sau chiriașul are acces la toate informațiile despre apartament și modul de calcul al întreținerii. Pentru a accesă aplicația este nevoie de un cont de utilizator și de o parolă. Acestea se primesc pe e-mail în momentul creării contul
+> * Administrator: Administratorul – are acces în timp real la toate sesizările locatarilor și îi poate informă rapid despre problemele tehnice și organizatorice, poate urmări cheltuielile și reparațiile prin singur clic.
+> * Cenzor: Verifică listele lunare cu cotele de întreținere, verifică lista facturilor, verifică situația financiară, notifica conducerea asociației referitor la anumite nereguli financiare.
+> * Contabil: Se calculează listele lunare de întreținere și se actualizează toate detaliile financiare ale asociației. Se vizualizează facturile, statul de salariu, cotele de întreținere, mod distribuire cheltuieli, oferte pentru diferite lucrări, notificări locatari.
+> * Casier: Introduce în sistem plățile cotelor de întreținere, a fodurilor de rulment, a penalitarilor încasate în timpul programului de lucru. Prin introducerea încasărilor în sistem se generează automat registrele contabile (registru casă, registru jurnal încasări și plăți, …).
+> * Președinte: Verifică și aprobă listele lunare cu cotele de întreținere, aprobă plată facturilor, verifică situația financiară, anunța Adunările Generale, reprezintă asociația în față reprezentaților legali, ia decizii în numele asociației.
 
 <br/>
 <br/>
@@ -106,6 +107,12 @@ Cota de piata:
 
 
 #### Blocexpert
+Este o platformă web pentru administratori ce oferă:
+> * Lista De Cheltuieli cu posibilitatea configurării 100% pe specificul asocaitiei
+> * Mai multe nivele de acces: Locatarii asociației au conturi proprii în program, pot accesă fișa apartamentului, notă de plată, situațiile specifice apartamentului, pot transmite indecșii contoarelor direct prin intermediul aplicației și pot transmite sesizări administrației sau membrilor asociației, prin intermediul aplicației. Cenzorul și președintele pot vizualiză, verifică și comunică mai ușor prin intermediul aplicației.
+> * Rapoarte de contabilitate se pot decărca în format Excel sau PDF. De asemenea, se pot accesă rapoartele contabile, situația restanțierilor, a fondurilor, a penalizarilor, precum și situația elementelor de activ și pasiv.
+> * Plată întreținerii: Locatarii pot plăți online cheltuielile lunare la bloc fără să mai fie nevoie de o întâlnire cu administratorul. De asemenea, este posibilă lată întreținerii de pe telefonul mobil, dintr-un portofel electronic, instalat gratuit. Achitarea datoriilor către asociația de proprietari se poate face și prin intermediul terminalelor de tip self-service Zebrapay, disponibile în toată țara.
+> * Repartizarea costurilor cu agentul termic pentru fiecare apartament care are repartitoare.
 <br/>
 <br/>
 <br/>
