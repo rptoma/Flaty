@@ -1,4 +1,4 @@
----
+﻿---
 title: Milestone 6 - Market Research
 categories: Market Research
 <!--author_staff_member:
@@ -9,7 +9,7 @@ show_comments: true
 
 <br/>
 
-### PIATA TINTA
+### PIAŢA ŢINTĂ
 
 <br/>
 <center>
@@ -17,9 +17,21 @@ show_comments: true
 </center>  
 <br/>
 
+Piaţa ţintă este definită de 2 mari segmente de clienţi: administratori şi locatari. 
+În momentul de faţă noi targetam populaţia urbană a României, care, în momentul de faţă este de 55,2%.
+Conform INS, în anul 2017, în România existau 8.92 milioane de locuinţe, lucru ce se poate observa în imaginea de mai jos.
+
+<br/>
+<center>
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/locuinte.jpeg" width="500">
+</center>  
+<br/>
+
+De asemenea, piaţa construcţiilor rezidenţiale a avut o evoluţie pozitivă atât în anul 2017, cât şi în anul curent, conform unui studiu comandat de Arabesque. În anul 2017 au fost terminate 53301 locuinţe, iar în acest an se estimează faptul că numărul locuinţelor va creşte peste nivelul de 65000 de unităţi, ceea ce duce la creşterea probabilităţii ca aplicaţia noastră să fie din ce în ce mai folosită.
 
 
-### COMPETITIA  
+
+### COMPETIŢIA  
 
 <br/>
 <center>
@@ -30,10 +42,10 @@ show_comments: true
 </center>
 <br/>
 
-Concurența reprezinta validarea pieței. Faptul că afacerile similare care au apărut deja functioneaza înseamnă că există o piață activă pentru acest produs, existand o nevoie stabilită pentru ceea ce oferim. In urma analizei pietei am concluzionat faptul ca exista 8 astfel de aplicatii: E-bloc, Xisoft, Aviziero, Gesimo, Blocexpert, Homefile, AdministrarE, Ebloc. 
+Concurența reprezintă validarea pieței. Faptul că afacerile similare care au apărut deja funcţionează înseamnă că există o piață activă pentru acest produs, existând o nevoie stabilită pentru ceea ce oferim. În urma analizei pieţei am concluzionat faptul că există 8 astfel de aplicaţii: E-bloc, Xisoft, Aviziero, Gesimo, Blocexpert, Homefile, AdministrarE, Ebloc. 
 <br/>
 
-In continuare vom analiza principalii competitori si ceea ce acestia ofera.
+În continuare vom analiza principalii competitori şi ceea ce aceştia oferă.
 
 
 #### 1. E-bloc & Xisoft
@@ -41,7 +53,7 @@ In continuare vom analiza principalii competitori si ceea ce acestia ofera.
 <b>[E-bloc](https://www.e-bloc.ro "e-bloc")</b>
 <br/>
 Este o platformă web ce oferă:
-> * Avizier - permite afişarea a peste 60 de rapoarte (ex: lista de plată, registre de fonduri, state de salarii etc) anunţuri sau alte documente
+> * Avizier - permite afişarea a peste 60 de rapoarte (ex: lista de plată, registre de fonduri, state de salarii, etc) anunţuri sau alte documente
 > * Facturi - arată cheltuielile care au intrat în componenţa listei de plată, chletuielile care s-au făcut din fonduri şi veniturile pe care le-a avut asociaţia
 > * Documente - actele asociaţiei de proprietari, contractele încheiate, deciziile comitetului şi hotărârile adunării generale
 > * Introducere indecși contoare apă rece și apă caldă
