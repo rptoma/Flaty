@@ -9,7 +9,7 @@ show_comments: true
 
 <br/>
 
-### PIATA TINTA 
+### PIATA TINTA
 
 <br/>
 <center>
@@ -29,10 +29,27 @@ show_comments: true
 <br/>
 
 #### E-bloc
+Este o platformă web ce oferă:
+> * Avizier - permite afişarea a peste 60 de rapoarte (ex: lista de plată, registre de fonduri, state de salarii etc) anunţuri sau alte documente
+> * Facturi - arată cheltuielile care au intrat în componenţa listei de plată, chletuielile care s-au făcut din fonduri şi veniturile pe care le-a avut asociaţia
+> * Documente - actele asociaţiei de proprietari, contractele încheiate, deciziile comitetului şi hotărârile adunării generale
+> * Introducere indecși contoare apă rece și apă caldă
+> * Istoricul consumului
+> * Informări prin email sau Facebook
+> * Plata întreţinerii folosind carduri Visa, MasterCard, Maestro
+> * protecţie 3D Secure
+> * Selecţie datorii
+> * Iistoric plăţi
+> * Pagină de discuții
+> * Reclamații
+> * Diverse știri
+> * Integrare cu Facebook - asocierea contului de Facebook la contul interfeţei e-bloc.ro
+> * Notificări pentru citirea contoarelor
+
 <br/>
 <br/>
 <br/>
-Cota de piata: 
+Cota de piata:
 <br/>
 
 
@@ -40,7 +57,7 @@ Cota de piata:
 <br/>
 <br/>
 <br/>
-Cota de piata: 
+Cota de piata:
 <br/>
 
 
@@ -48,7 +65,7 @@ Cota de piata:
 <br/>
 <br/>
 <br/>
-Cota de piata: 
+Cota de piata:
 <br/>
 
 
@@ -56,7 +73,7 @@ Cota de piata:
 <br/>
 <br/>
 <br/>
-Cota de piata: 
+Cota de piata:
 <br/>
 
 
@@ -64,7 +81,7 @@ Cota de piata:
 <br/>
 <br/>
 <br/>
-Cota de piata: 
+Cota de piata:
 <br/>
 
 
@@ -72,7 +89,7 @@ Cota de piata:
 <br/>
 <br/>
 <br/>
-Cota de piata: 
+Cota de piata:
 <br/>
 
 
