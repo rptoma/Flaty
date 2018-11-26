@@ -108,7 +108,7 @@ Este o soluție desktop ce oferă:
 
 Licenţa se plăteşte o singură dată (fără abonament lunar sau anual). Clienţii companiei se găsesc în 113 oraşe din ţară şi administrează până în ziua de astăzi 9952 asociaţii totalizând 590257 de apartamente.
 
-<br/>
+
 Cota de piaţă: 32%
 <br/>
 
@@ -125,7 +125,7 @@ Prețuri:
 > * Pentru administrator angajat - abonament lunar - 2lei/apartament (min. 50 lei)
 > * Pentru firmele de administrare - 50 lei/ asociaţie; 100 lei / utilizator tip administrator
 
-<br/>
+
 Cota de piaţă: 23%
 <br/>
 
@@ -159,7 +159,7 @@ Există mai multe tipuri de conturi:
 > * Casier: Introduce în sistem plățile cotelor de întreținere, a fondurilor de rulment, a penalităţilor încasate în timpul programului de lucru. Prin introducerea încasărilor în sistem se generează automat registrele contabile (registru casă, registru jurnal încasări și plăți, etc).
 > * Președinte: Verifică și aprobă listele lunare cu cotele de întreținere, aprobă plata facturilor, verifică situația financiară, anunța Adunările Generale, reprezintă asociația în față reprezentaților legali, ia decizii în numele asociației.
 
-<br/>
+
 Cota de piaţă: 19%
 <br/>
 
@@ -175,21 +175,22 @@ Prețuri:
 > * Pachet cu cel mult 100 de apartamente - 2lei/lună
 > * Pachet începând cu 101 apartamente și permite negocierea în funcție de nr. final de apartamente - 1 leu/lună
 > * Ofertă personalizată în funcție de nevoile de administrare - preț între 0-2 lei/lună
-<br/>
+
+
 Cota de piaţă: 17%
 <br/>
 
 
 ### COTA DE PIAŢĂ
-Ținând cont că în primul va fi mai dificil din punct de vedere al promovării și propagării în piață, cota noastră de piață nu va fi una ridicată, preconizând o valoare de aprox. 5%.
+Ținând cont că în <b>primul an</b> va fi mai dificil din punct de vedere al promovării și propagării în piață, cota noastră de piață nu va fi una ridicată, preconizând o valoare de aprox. 5%.
 <br/>
-În anul 2, datorită unui plan de marketing bine definit, ne așteptăm la o creștere a cotei de piață, astfel ajungând la 10%.
+În <b>anul 2</b>, datorită unui plan de marketing bine definit, ne așteptăm la o creștere a cotei de piață, astfel ajungând la 10%.
 <br/>
-În anul 3 ne propunem o creștere substanțială datorită feedback-ul pozitiv și recomandările utilizatorilor astfel creându-se efectul bulgărelui de zăpadă. Cota de piață a competitorilor începe să scadă, majoritatea noilor clienți migrând de la platformele având cotele cele mai joase, către Flaty. Astfel, cota noastră de piață va fi 20%, iar a E-bloc va fi 26%.
+În <b>anul 3</b> ne propunem o creștere substanțială datorită feedback-ul pozitiv și recomandările utilizatorilor astfel creându-se efectul bulgărelui de zăpadă. Cota de piață a competitorilor începe să scadă, majoritatea noilor clienți migrând de la platformele având cotele cele mai joase, către Flaty. Astfel, cota noastră de piață va fi 20%, iar a E-bloc va fi 26%.
 <br/>
-În anul 4, din cauza faptului că un nou competitor în acest domeniu a apărut, cota noastră a scăzut la 18%.
+În <b>anul 4</b>, din cauza faptului că un nou competitor în acest domeniu a apărut, cota noastră a scăzut la 18%.
 <br/>
-În anul 5, echipa se va concentra pe inovare astfel, vom perfecționa funcționalitățile existene și vom introduce tehnologii noi (de exemplu apometre inteligente), astfel devenind lideri pe piață, cu o cotă de 27%, E-Bloc ajungând pe locul 2, cu 23%.
+În <b>anul 5</b>, echipa se va concentra pe inovare astfel, vom perfecționa funcționalitățile existene și vom introduce tehnologii noi (de exemplu apometre inteligente), astfel devenind lideri pe piață, cu o cotă de 27%, E-Bloc ajungând pe locul 2, cu 23%.
 <br/>
 
 ### COTA DE PIAȚĂ TOTALĂ
