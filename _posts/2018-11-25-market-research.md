@@ -196,26 +196,32 @@ Cota de piaţă: 17%
 
 <br/>
 #### AN 1
-
-<br/>
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/an1.jpeg" width="500">
 </center>
 <br/>
 
 #### AN 2
-
-<br/>
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/an2.jpeg" width="500">
 </center>
 <br/>
 
 #### AN 3
-
-<br/>
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/an3.jpeg" width="500">
+</center>
+<br/>
+
+#### AN 4
+<center>
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/an4.jpeg" width="500">
+</center>
+<br/>
+
+#### AN 5
+<center>
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/an5.jpeg" width="500">
 </center>
 <br/>
 
