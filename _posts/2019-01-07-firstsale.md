@@ -14,20 +14,20 @@ show_comments: true
 </center>  
 <br/>
 
-Am ales sã captam atenşia publicului prin intermediul unui clip video sugestiv, scurt ºi captivant pentru a testa cererea produsului pe piaşã înainte de a-l elibera în mediul online cu drepturi depline. În funcşie de feedback-ul primit avem posibilitatea atât de a îmbunãtãşi unele aspecte, cât ºi de a ne mãri baza de utilizatori.
+Am ales sÃ£ captam atenÃ¾ia publicului prin intermediul unui clip video sugestiv, scurt Âºi captivant pentru a testa cererea produsului pe piaÃ¾Ã£ Ã®nainte de a-l elibera Ã®n mediul online cu drepturi depline. Ãn funcÃ¾ie de feedback-ul primit avem posibilitatea atÃ¢t de a Ã®mbunÃ£tÃ£Ã¾i unele aspecte, cÃ¢t Âºi de a ne mÃ£ri baza de utilizatori.
 
-Aici poate fi vizualizat acest video. El a fost încãrcat pe youtube cu scopul de a promova aplicaşia noastrã.
+[Aici] poate fi vizualizat acest video. El a fost Ã®ncÃ£rcat pe youtube cu scopul de a promova aplicaÃ¾ia noastrÃ£.
 
 
-Insipraşia noastrã a constat în succesul celor de la Dropbox care au folosit aceeaºi metodã de MVP. Dropbox nu a lansat nici mãcar un produs fizic drept MVP, demonstraşia video aparent banalã le-a adus succesul, videoclipul uploadat atingând în mai puşin de 24 de ore un numãr impresionant de vizualizãri ºi cereri. 
+InsipraÃ¾ia noastrÃ£ a constat Ã®n succesul celor de la Dropbox care au folosit aceeaÂºi metodÃ£ de MVP. Dropbox nu a lansat nici mÃ£car un produs fizic drept MVP, demonstraÃ¾ia video aparent banalÃ£ le-a adus succesul, videoclipul uploadat atingÃ¢nd Ã®n mai puÃ¾in de 24 de ore un numÃ£r impresionant de vizualizÃ£ri Âºi cereri. 
 
-Astfel, am primit o a doua validare a faptului cã produsul nostru este dorit ºi riscul de a nu fi utilizat ºi accesat de cãtre nimeni a scãzut considerabil. 
+Astfel, am primit o a doua validare a faptului cÃ£ produsul nostru este dorit Âºi riscul de a nu fi utilizat Âºi accesat de cÃ£tre nimeni a scÃ£zut considerabil. 
 <br/>
 
 <br/>
-### PREŞUL DE ACHIZIŞIE
+### PREÃUL DE ACHIZIÃIE
 <br/>
-MVP-ul nostru este gratuit, oferind utilizatorului posibilitatea sã acceseze majoritatea caracteristicilor puse la dispozişie. Pentru o utilizare la capacitate maximã a aplicaşiei web dispunem ºi de un abonament lunar perceput cu o taxã de 4 RON ce include în plus plata online cu ajutorul cardului prin platforma PayPal, citirea avizierului online ºi offline, cât ºi secşiunea de sugestii ºi reclamaşii. În plus, abonamentul lunar va include ºi eliminarea reclamelor ce pot fi deranjante dupã o utilizare îndelungatã.
+MVP-ul nostru este gratuit, oferind utilizatorului posibilitatea sÃ£ acceseze majoritatea caracteristicilor puse la dispoziÃ¾ie. Pentru o utilizare la capacitate maximÃ£ a aplicaÃ¾iei web dispunem Âºi de un abonament lunar perceput cu o taxÃ£ de 4 RON ce include Ã®n plus plata online cu ajutorul cardului prin platforma PayPal, citirea avizierului online Âºi offline, cÃ¢t Âºi secÃ¾iunea de sugestii Âºi reclamaÃ¾ii. Ãn plus, abonamentul lunar va include Âºi eliminarea reclamelor ce pot fi deranjante dupÃ£ o utilizare Ã®ndelungatÃ£.
 
-Am ales sã oferim aceastã posibilitate gratuitã pentru a le da un timp de acomodare ºi înşelegere a aplicaşiei, asigurându-se în final atunci când aleg abonamentul lunar cã aplicaşia este folositã la întregul ei potenşial.
+Am ales sÃ£ oferim aceastÃ£ posibilitate gratuitÃ£ pentru a le da un timp de acomodare Âºi Ã®nÃ¾elegere a aplicaÃ¾iei, asigurÃ¢ndu-se Ã®n final atunci cÃ¢nd aleg abonamentul lunar cÃ£ aplicaÃ¾ia este folositÃ£ la Ã®ntregul ei potenÃ¾ial.
 
