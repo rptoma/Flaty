@@ -11,7 +11,7 @@ show_comments: true
 
 <br/>
 <center>
-<img src="https://github.com/rptoma/Flaty/raw/master/_posts/FirstSale/chart.jpg" width="500">
+<img src="https://github.com/rptoma/Flaty/raw/master/_posts/FirstSale/sales.jpg" width="500">
 </center>  
 <br/>
 
