@@ -6,7 +6,9 @@ show_comments: true
 ---
 
 ## Market Research  
-
+Piaţa ţintă este definită de 2 mari segmente de clienţi: administratori şi locatari.
+În momentul de faţă noi targetam populaţia urbană a României, care, în momentul de faţă este de 55,2%.
+Conform INS, în anul 2017, în România existau 8.92 milioane de locuinţe, lucru ce se poate observa în imaginea de mai jos.
 <br/>
 
 ### PIAŢA ŢINTĂ
