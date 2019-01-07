@@ -16,7 +16,7 @@ show_comments: true
 
 Am ales sã captam atenþia publicului prin intermediul unui clip video sugestiv, scurt ºi captivant pentru a testa cererea produsului pe piaþã înainte de a-l elibera în mediul online cu drepturi depline. În funcþie de feedback-ul primit avem posibilitatea atât de a îmbunãtãþi unele aspecte, cât ºi de a ne mãri baza de utilizatori.
 
-[Aici] poate fi vizualizat acest video. El a fost încãrcat pe youtube cu scopul de a promova aplicaþia noastrã.
+[Aici] (https://www.youtube.com/watch?v=zZuum0cSG0k&frags=pl%2Cwn) poate fi vizualizat acest video. El a fost încãrcat pe youtube cu scopul de a promova aplicaþia noastrã.
 
 
 Insipraþia noastrã a constat în succesul celor de la Dropbox care au folosit aceeaºi metodã de MVP. Dropbox nu a lansat nici mãcar un produs fizic drept MVP, demonstraþia video aparent banalã le-a adus succesul, videoclipul uploadat atingând în mai puþin de 24 de ore un numãr impresionant de vizualizãri ºi cereri. 
