@@ -4,11 +4,8 @@ categories: Market Research
 <!--author_staff_member:
 show_comments: true
 ---
-
-## Market Research  
-
+  
 ### PIAŢA ŢINTĂ
-
 Piaţa ţintă este definită de 2 mari segmente de clienţi: administratori şi locatari.
 
 <br/>
