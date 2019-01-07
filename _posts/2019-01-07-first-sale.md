@@ -16,7 +16,6 @@ show_comments: true
 
 Am ales sa captam atentia publicului prin intermediul unui clip video sugestiv, scurt si captivant pentru a testa cererea produsului pe piata inainte de a-l elibera in mediul online cu drepturi depline. In functie de feedback-ul primit avem posibilitatea sa imbunatatim unele aspecte cat si sa ne marim baza de utilizatori.
 
-<p>flaty.mp4</p>
 <embed src="https://github.com/rptoma/Flaty/raw/master/_posts/FirstSale/flaty.mp4" width="325" height="230" allowfullscreen="true" />
 
 Insipratia noastra a constat in succesul celor de la Dropbox care au folosit aceeasi metoda de MVP. Dropbox nu a lansat nici macar un produs fizic drept MVP, demonstratia video aparent banala le-a adus succesul, videoclipul uploadat atingand in mai putin de 24 de ore un numar impresionant de vizualizari si cereri. 
