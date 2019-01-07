@@ -14,7 +14,7 @@ Piaţa ţintă este definită de 2 mari segmente de clienţi: administratori şi
 <br/>
 <center>
 <img src="https://github.com/rptoma/Flaty/raw/master/_posts/MarketResearch/target_market.jpeg" width="500">
-</center>  
+</center>
 <br/>
 
 
