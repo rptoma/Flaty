@@ -22,7 +22,7 @@ Insipratia noastra a constat in succesul celor de la Dropbox care au folosit ace
 Astfel, am primit o a doua validare a faptului ca produsul nostru este dorit si riscul de a nu fi utilizat si accesat de catre nimeni a scazut considerabil. 
 <br/>
 
-
+<br/>
 ### PRETUL DE ACHIZITIE
 <br/>
 MVP-ul nostru este gratuit, oferind utilizatorului posibilitatea sa acceseze majoritatea caracteristicilor puse la dispozitie. Pentru o utlizare la capacitate maxima a aplicatiei web, dispunem si de un abonament lunar perceput cu o taxa de 4RON ce include in plus plata online cu ajutorul cardului prin platforma PayPal, citirea avizierului online si offline, cat si sectiunea de sugestii si reclamatii. In plus abonamentul lunar va include si eliminarea reclamelor ce pot fi deranjante dupa o utilizare indelungata.
